@@ -1,4 +1,6 @@
-# leetcode-solutions[decode-xored-array.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decode-xored-array.py)
+# leetcode-solutions
+##Python3
+[decode-xored-array.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decode-xored-array.py)
 
 [jewels-and-stones.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/jewels-and-stones.py)
 
@@ -38,18 +40,22 @@
 
 [add-two-integers.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/add-two-integers.py)
 
+##TypeScript
 [debounce.ts](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/debounce.ts)
 
 [timeout-cancellation.ts](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/timeout-cancellation.ts)
 
 [add-two-promises.ts](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/add-two-promises.ts)
 
+##Pandas
+##JavaScript
 [allow-one-function-call.js](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/allow-one-function-call.js)
 
 [return-length-of-arguments-passed.js](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/return-length-of-arguments-passed.js)
 
 [array-wrapper.js](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-wrapper.js)
 
+##MySQL
 [daily-leads-and-partners.sql](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/daily-leads-and-partners.sql)
 
 [number-of-unique-subjects-taught-by-each-teacher.sql](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/number-of-unique-subjects-taught-by-each-teacher.sql)
