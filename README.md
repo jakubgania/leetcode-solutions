@@ -1,69 +1,69 @@
 # leetcode-solutions
 ## Python3
 
-[decode-xored-array.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decode-xored-array.py)
+[decode-xored-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decode-xored-array)
 
-[jewels-and-stones.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/jewels-and-stones.py)
+[jewels-and-stones](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/jewels-and-stones)
 
-[partitioning-into-minimum-number-of-deci-binary-numbers.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/partitioning-into-minimum-number-of-deci-binary-numbers.py)
+[partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/partitioning-into-minimum-number-of-deci-binary-numbers)
 
-[find-the-maximum-achievable-number.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-maximum-achievable-number.py)
+[find-the-maximum-achievable-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-maximum-achievable-number)
 
-[running-sum-of-1d-array.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/running-sum-of-1d-array.py)
+[running-sum-of-1d-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/running-sum-of-1d-array)
 
-[root-equals-sum-of-children.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/root-equals-sum-of-children.py)
+[root-equals-sum-of-children](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/root-equals-sum-of-children)
 
-[insert-greatest-common-divisors-in-linked-list.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/insert-greatest-common-divisors-in-linked-list.py)
+[insert-greatest-common-divisors-in-linked-list](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/insert-greatest-common-divisors-in-linked-list)
 
-[number-of-employees-who-met-the-target.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-employees-who-met-the-target.py)
+[number-of-employees-who-met-the-target](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-employees-who-met-the-target)
 
-[how-many-numbers-are-smaller-than-the-current-number.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/how-many-numbers-are-smaller-than-the-current-number.py)
+[how-many-numbers-are-smaller-than-the-current-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/how-many-numbers-are-smaller-than-the-current-number)
 
-[maximum-number-of-words-found-in-sentences.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-number-of-words-found-in-sentences.py)
+[maximum-number-of-words-found-in-sentences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-number-of-words-found-in-sentences)
 
-[subtract-the-product-and-sum-of-digits-of-an-integer.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/subtract-the-product-and-sum-of-digits-of-an-integer.py)
+[subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/subtract-the-product-and-sum-of-digits-of-an-integer)
 
-[kids-with-the-greatest-number-of-candies.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/kids-with-the-greatest-number-of-candies.py)
+[kids-with-the-greatest-number-of-candies](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/kids-with-the-greatest-number-of-candies)
 
-[build-array-from-permutation.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/build-array-from-permutation.py)
+[build-array-from-permutation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/build-array-from-permutation)
 
-[defanging-an-ip-address.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/defanging-an-ip-address.py)
+[defanging-an-ip-address](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/defanging-an-ip-address)
 
-[convert-the-temperature.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-the-temperature.py)
+[convert-the-temperature](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-the-temperature)
 
-[final-value-of-variable-after-performing-operations.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/final-value-of-variable-after-performing-operations.py)
+[final-value-of-variable-after-performing-operations](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/final-value-of-variable-after-performing-operations)
 
-[shuffle-the-array.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-the-array.py)
+[shuffle-the-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-the-array)
 
-[concatenation-of-array.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/concatenation-of-array.py)
+[concatenation-of-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/concatenation-of-array)
 
-[smallest-even-multiple.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/smallest-even-multiple.py)
+[smallest-even-multiple](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/smallest-even-multiple)
 
-[add-two-integers.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/add-two-integers.py)
+[add-two-integers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/add-two-integers)
 
 ## TypeScript
 
-[debounce.ts](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/debounce.ts)
+[debounce](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/debounce)
 
-[timeout-cancellation.ts](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/timeout-cancellation.ts)
+[timeout-cancellation](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/timeout-cancellation)
 
-[add-two-promises.ts](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/add-two-promises.ts)
+[add-two-promises](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/add-two-promises)
 
 ## Pandas
 
 ## JavaScript
 
-[allow-one-function-call.js](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/allow-one-function-call.js)
+[allow-one-function-call](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/allow-one-function-call)
 
-[return-length-of-arguments-passed.js](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/return-length-of-arguments-passed.js)
+[return-length-of-arguments-passed](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/return-length-of-arguments-passed)
 
-[array-wrapper.js](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-wrapper.js)
+[array-wrapper](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-wrapper)
 
 ## MySQL
 
-[daily-leads-and-partners.sql](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/daily-leads-and-partners.sql)
+[daily-leads-and-partners](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/daily-leads-and-partners)
 
-[number-of-unique-subjects-taught-by-each-teacher.sql](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/number-of-unique-subjects-taught-by-each-teacher.sql)
+[number-of-unique-subjects-taught-by-each-teacher](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/number-of-unique-subjects-taught-by-each-teacher)
 
-[recyclable-and-low-fat-products.sql](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/recyclable-and-low-fat-products.sql)
+[recyclable-and-low-fat-products](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/recyclable-and-low-fat-products)
 
