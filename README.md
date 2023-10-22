@@ -1,4 +1,5 @@
 # leetcode-solutions
+My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate becaouse this is a learning process for me in general - keep taht in mind.
 ## Python3
 
 [decode-xored-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decode-xored-array.py)
