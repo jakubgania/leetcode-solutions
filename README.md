@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3
+## Python3 - 31
 
 [decode-xored-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decode-xored-array.py)
 
@@ -64,7 +64,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [add-two-integers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/add-two-integers.py)
 
-## TypeScript
+## TypeScript - 5
 
 [debounce](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/debounce.ts)
 
@@ -76,9 +76,9 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [filter-elements-from-array](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/filter-elements-from-array.ts)
 
-## Pandas
+## Pandas - 0
 
-## JavaScript
+## JavaScript - 3
 
 [allow-one-function-call](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/allow-one-function-call.js)
 
@@ -86,7 +86,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [array-wrapper](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-wrapper.js)
 
-## MySQL
+## MySQL - 5
 
 [daily-leads-and-partners](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/daily-leads-and-partners.sql)
 
