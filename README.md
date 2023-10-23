@@ -12,9 +12,13 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [find-the-maximum-achievable-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-maximum-achievable-number.py)
 
+[find-the-original-array-of-prefix-xor](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-original-array-of-prefix-xor.py)
+
 [running-sum-of-1d-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/running-sum-of-1d-array.py)
 
 [root-equals-sum-of-children](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/root-equals-sum-of-children.py)
+
+[truncate-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/truncate-sentence.py)
 
 [insert-greatest-common-divisors-in-linked-list](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/insert-greatest-common-divisors-in-linked-list.py)
 
@@ -32,11 +36,19 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [build-array-from-permutation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/build-array-from-permutation.py)
 
+[shuffle-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-string.py)
+
 [defanging-an-ip-address](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/defanging-an-ip-address.py)
+
+[create-target-array-in-the-given-order](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/create-target-array-in-the-given-order.py)
+
+[check-if-two-string-arrays-are-equivalent](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-two-string-arrays-are-equivalent.py)
 
 [convert-the-temperature](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-the-temperature.py)
 
 [final-value-of-variable-after-performing-operations](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/final-value-of-variable-after-performing-operations.py)
+
+[difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/difference-between-element-sum-and-digit-sum-of-an-array.py)
 
 [shuffle-the-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-the-array.py)
 
@@ -62,6 +74,8 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [apply-transform-over-each-element-in-array](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/apply-transform-over-each-element-in-array.ts)
 
+[filter-elements-from-array](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/filter-elements-from-array.ts)
+
 ## Pandas
 
 ## JavaScript
@@ -79,6 +93,8 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 [number-of-unique-subjects-taught-by-each-teacher](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/number-of-unique-subjects-taught-by-each-teacher.sql)
 
 [recyclable-and-low-fat-products](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/recyclable-and-low-fat-products.sql)
+
+[rearrange-products-table](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/rearrange-products-table.sql)
 
 [find-total-time-spent-by-each-employee](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/find-total-time-spent-by-each-employee.sql)
 
