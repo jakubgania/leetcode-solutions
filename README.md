@@ -1,10 +1,14 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 40
+## Python3 - 49
 
 [design-an-ordered-stream](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/design-an-ordered-stream.py)
 
 [decode-xored-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decode-xored-array.py)
+
+[find-the-prefix-common-array-of-two-arrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-prefix-common-array-of-two-arrays.py)
+
+[xor-operation-in-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/xor-operation-in-an-array.py)
 
 [jewels-and-stones](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/jewels-and-stones.py)
 
@@ -18,11 +22,15 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [merge-sorted-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-sorted-array.py)
 
+[find-the-score-of-all-prefixes-of-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-score-of-all-prefixes-of-an-array.py)
+
 [sum-of-values-at-indices-with-k-set-bits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-values-at-indices-with-k-set-bits.py)
 
 [find-the-original-array-of-prefix-xor](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-original-array-of-prefix-xor.py)
 
 [running-sum-of-1d-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/running-sum-of-1d-array.py)
+
+[sorting-the-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sorting-the-sentence.py)
 
 [root-equals-sum-of-children](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/root-equals-sum-of-children.py)
 
@@ -42,11 +50,17 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [kids-with-the-greatest-number-of-candies](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/kids-with-the-greatest-number-of-candies.py)
 
+[goal-parser-interpretation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/goal-parser-interpretation.py)
+
+[rearrange-array-elements-by-sign](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-array-elements-by-sign.py)
+
 [build-array-from-permutation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/build-array-from-permutation.py)
 
 [shuffle-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-string.py)
 
 [search-insert-position](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/search-insert-position.py)
+
+[number-of-steps-to-reduce-a-number-to-zero](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-steps-to-reduce-a-number-to-zero.py)
 
 [defanging-an-ip-address](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/defanging-an-ip-address.py)
 
@@ -80,15 +94,21 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [sqrtx](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sqrtx.py)
 
+[number-of-good-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-good-pairs.py)
+
+[count-items-matching-a-rule](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-items-matching-a-rule.py)
+
 [convert-an-array-into-a-2d-array-with-conditions](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-an-array-into-a-2d-array-with-conditions.py)
 
-## TypeScript - 6
+## TypeScript - 7
 
 [debounce](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/debounce.ts)
 
 [timeout-cancellation](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/timeout-cancellation.ts)
 
 [add-two-promises](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/add-two-promises.ts)
+
+[sleep](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/sleep.ts)
 
 [apply-transform-over-each-element-in-array](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/apply-transform-over-each-element-in-array.ts)
 
@@ -106,9 +126,13 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [array-wrapper](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-wrapper.js)
 
-## MySQL - 5
+## MySQL - 7
 
 [daily-leads-and-partners](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/daily-leads-and-partners.sql)
+
+[bank-account-summary-ii](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/bank-account-summary-ii.sql)
+
+[invalid-tweets](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/invalid-tweets.sql)
 
 [number-of-unique-subjects-taught-by-each-teacher](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/number-of-unique-subjects-taught-by-each-teacher.sql)
 
