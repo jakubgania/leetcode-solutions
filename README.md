@@ -1,10 +1,18 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 49
+## Python3 - 61
+
+[sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
+
+[arithmetic-subarrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/arithmetic-subarrays.py)
 
 [design-an-ordered-stream](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/design-an-ordered-stream.py)
 
 [decode-xored-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decode-xored-array.py)
+
+[minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-sum-of-four-digit-number-after-splitting-digits.py)
+
+[find-center-of-star-graph](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-center-of-star-graph.py)
 
 [find-the-prefix-common-array-of-two-arrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-prefix-common-array-of-two-arrays.py)
 
@@ -44,21 +52,31 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [maximum-number-of-words-found-in-sentences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-number-of-words-found-in-sentences.py)
 
+[unique-morse-code-words](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/unique-morse-code-words.py)
+
+[reverse-words-in-a-string-iii](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/reverse-words-in-a-string-iii.py)
+
 [subrectangle-queries](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/subrectangle-queries.py)
 
 [subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/subtract-the-product-and-sum-of-digits-of-an-integer.py)
 
 [kids-with-the-greatest-number-of-candies](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/kids-with-the-greatest-number-of-candies.py)
 
+[rearrange-words-in-a-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-words-in-a-sentence.py)
+
 [goal-parser-interpretation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/goal-parser-interpretation.py)
 
 [rearrange-array-elements-by-sign](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-array-elements-by-sign.py)
+
+[sort-the-matrix-diagonallydescription](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-matrix-diagonallydescription.py)
 
 [build-array-from-permutation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/build-array-from-permutation.py)
 
 [shuffle-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-string.py)
 
 [search-insert-position](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/search-insert-position.py)
+
+[count-the-number-of-consistent-strings](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-the-number-of-consistent-strings.py)
 
 [number-of-steps-to-reduce-a-number-to-zero](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-steps-to-reduce-a-number-to-zero.py)
 
@@ -73,6 +91,8 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 [final-value-of-variable-after-performing-operations](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/final-value-of-variable-after-performing-operations.py)
 
 [sort-the-students-by-their-kth-score](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-students-by-their-kth-score.py)
+
+[to-lower-case](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/to-lower-case.py)
 
 [difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/difference-between-element-sum-and-digit-sum-of-an-array.py)
 
@@ -94,13 +114,17 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [sqrtx](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sqrtx.py)
 
+[partition-array-according-to-given-pivot](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/partition-array-according-to-given-pivot.py)
+
 [number-of-good-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-good-pairs.py)
+
+[minimum-bit-flips-to-convert-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-bit-flips-to-convert-number.py)
 
 [count-items-matching-a-rule](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-items-matching-a-rule.py)
 
 [convert-an-array-into-a-2d-array-with-conditions](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-an-array-into-a-2d-array-with-conditions.py)
 
-## TypeScript - 7
+## TypeScript - 8
 
 [debounce](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/debounce.ts)
 
@@ -111,6 +135,8 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 [sleep](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/sleep.ts)
 
 [apply-transform-over-each-element-in-array](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/apply-transform-over-each-element-in-array.ts)
+
+[chunk-array](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/chunk-array.ts)
 
 [filter-elements-from-array](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/filter-elements-from-array.ts)
 
@@ -126,7 +152,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [array-wrapper](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-wrapper.js)
 
-## MySQL - 7
+## MySQL - 8
 
 [daily-leads-and-partners](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/daily-leads-and-partners.sql)
 
@@ -141,4 +167,6 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 [rearrange-products-table](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/rearrange-products-table.sql)
 
 [find-total-time-spent-by-each-employee](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/find-total-time-spent-by-each-employee.sql)
+
+[the-latest-login-in-2020](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/the-latest-login-in-2020.sql)
 
