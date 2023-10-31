@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 61
+## Python3 - 63
 
 [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 
@@ -33,6 +33,8 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 [find-the-score-of-all-prefixes-of-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-score-of-all-prefixes-of-an-array.py)
 
 [sum-of-values-at-indices-with-k-set-bits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-values-at-indices-with-k-set-bits.py)
+
+[design-hashmap](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/design-hashmap.py)
 
 [find-the-original-array-of-prefix-xor](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-original-array-of-prefix-xor.py)
 
@@ -67,6 +69,8 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 [goal-parser-interpretation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/goal-parser-interpretation.py)
 
 [rearrange-array-elements-by-sign](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-array-elements-by-sign.py)
+
+[remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-colored-pieces-if-both-neighbors-are-the-same-color.py)
 
 [sort-the-matrix-diagonallydescription](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-matrix-diagonallydescription.py)
 
@@ -142,7 +146,17 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [generate-fibonacci-sequence](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/generate-fibonacci-sequence.ts)
 
-## Pandas - 0
+## Pandas - 5
+
+[modify-columns.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/modify-columns.py)
+
+[drop-missing-data.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/drop-missing-data.py)
+
+[display-the-first-three-rows.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/display-the-first-three-rows.py)
+
+[create-a-new-column.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/create-a-new-column.py)
+
+[fill-missing-data.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/fill-missing-data.py)
 
 ## JavaScript - 3
 
@@ -152,11 +166,15 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [array-wrapper](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-wrapper.js)
 
-## MySQL - 8
+## MySQL - 13
+
+[game-play-analysis-i](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/game-play-analysis-i.sql)
 
 [daily-leads-and-partners](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/daily-leads-and-partners.sql)
 
 [bank-account-summary-ii](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/bank-account-summary-ii.sql)
+
+[not-boring-movies](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/not-boring-movies.sql)
 
 [invalid-tweets](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/invalid-tweets.sql)
 
@@ -164,9 +182,15 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [recyclable-and-low-fat-products](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/recyclable-and-low-fat-products.sql)
 
+[employees-with-missing-information](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/employees-with-missing-information.sql)
+
+[employee-bonus](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/employee-bonus.sql)
+
 [rearrange-products-table](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/rearrange-products-table.sql)
 
 [find-total-time-spent-by-each-employee](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/find-total-time-spent-by-each-employee.sql)
 
 [the-latest-login-in-2020](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/the-latest-login-in-2020.sql)
+
+[duplicate-emails](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/duplicate-emails.sql)
 
