@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 63
+## Python3 - 70
 
 [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 
@@ -12,7 +12,11 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-sum-of-four-digit-number-after-splitting-digits.py)
 
+[number-of-arithmetic-triplets](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-arithmetic-triplets.py)
+
 [find-center-of-star-graph](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-center-of-star-graph.py)
+
+[range-sum-of-bst](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/range-sum-of-bst.py)
 
 [find-the-prefix-common-array-of-two-arrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-prefix-common-array-of-two-arrays.py)
 
@@ -23,6 +27,8 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 [decompress-run-length-encoded-list](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decompress-run-length-encoded-list.py)
 
 [partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/partitioning-into-minimum-number-of-deci-binary-numbers.py)
+
+[binary-tree-level-order-traversal](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/binary-tree-level-order-traversal.py)
 
 [group-the-people-given-the-group-size-they-belong-to](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/group-the-people-given-the-group-size-they-belong-to.py)
 
@@ -60,6 +66,10 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [subrectangle-queries](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/subrectangle-queries.py)
 
+[count-the-digits-that-divide-a-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-the-digits-that-divide-a-number.py)
+
+[rename-columns](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rename-columns.py)
+
 [subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/subtract-the-product-and-sum-of-digits-of-an-integer.py)
 
 [kids-with-the-greatest-number-of-candies](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/kids-with-the-greatest-number-of-candies.py)
@@ -88,6 +98,8 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [create-target-array-in-the-given-order](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/create-target-array-in-the-given-order.py)
 
+[encode-and-decode-tinyurl](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/encode-and-decode-tinyurl.py)
+
 [check-if-two-string-arrays-are-equivalent](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-two-string-arrays-are-equivalent.py)
 
 [convert-the-temperature](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-the-temperature.py)
@@ -97,6 +109,8 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 [sort-the-students-by-their-kth-score](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-students-by-their-kth-score.py)
 
 [to-lower-case](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/to-lower-case.py)
+
+[widest-vertical-area-between-two-points-containing-no-points](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/widest-vertical-area-between-two-points-containing-no-points.py)
 
 [difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/difference-between-element-sum-and-digit-sum-of-an-array.py)
 
@@ -146,7 +160,11 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [generate-fibonacci-sequence](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/generate-fibonacci-sequence.ts)
 
-## Pandas - 5
+## Pandas - 8
+
+[reshape-data-melt.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/reshape-data-melt.py)
+
+[reshape-data-concatenate.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/reshape-data-concatenate.py)
 
 [modify-columns.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/modify-columns.py)
 
@@ -157,6 +175,8 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 [create-a-new-column.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/create-a-new-column.py)
 
 [fill-missing-data.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/fill-missing-data.py)
+
+[change-data-type.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/change-data-type.py)
 
 ## JavaScript - 3
 
