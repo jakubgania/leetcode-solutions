@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 70
+## Python3 - 75
 
 [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 
@@ -12,7 +12,11 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-sum-of-four-digit-number-after-splitting-digits.py)
 
+[find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py)
+
 [number-of-arithmetic-triplets](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-arithmetic-triplets.py)
+
+[difference-between-ones-and-zeros-in-row-and-column](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/difference-between-ones-and-zeros-in-row-and-column.py)
 
 [find-center-of-star-graph](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-center-of-star-graph.py)
 
@@ -74,6 +78,8 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [kids-with-the-greatest-number-of-candies](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/kids-with-the-greatest-number-of-candies.py)
 
+[same-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/same-tree.py)
+
 [rearrange-words-in-a-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-words-in-a-sentence.py)
 
 [goal-parser-interpretation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/goal-parser-interpretation.py)
@@ -87,6 +93,8 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 [build-array-from-permutation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/build-array-from-permutation.py)
 
 [shuffle-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-string.py)
+
+[plus-one](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/plus-one.py)
 
 [search-insert-position](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/search-insert-position.py)
 
@@ -121,6 +129,8 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 [left-and-right-sum-differences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/left-and-right-sum-differences.py)
 
 [design-parking-system](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/design-parking-system.py)
+
+[deepest-leaves-sum](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/deepest-leaves-sum.py)
 
 [concatenation-of-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/concatenation-of-array.py)
 
@@ -160,15 +170,23 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [generate-fibonacci-sequence](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/generate-fibonacci-sequence.ts)
 
-## Pandas - 8
+## Pandas - 12
 
 [reshape-data-melt.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/reshape-data-melt.py)
+
+[get-the-size-of-a-dataframe.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/get-the-size-of-a-dataframe.py)
+
+[create-a-dataframe-from-list.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/create-a-dataframe-from-list.py)
 
 [reshape-data-concatenate.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/reshape-data-concatenate.py)
 
 [modify-columns.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/modify-columns.py)
 
+[replace-employee-id-with-the-unique-identifier.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/replace-employee-id-with-the-unique-identifier.py)
+
 [drop-missing-data.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/drop-missing-data.py)
+
+[select-data.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/select-data.py)
 
 [display-the-first-three-rows.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/display-the-first-three-rows.py)
 
