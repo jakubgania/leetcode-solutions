@@ -19,7 +19,7 @@ for extension, folder in folders.items():
     for item in os.listdir(os.getcwd() + "/" + folder):
         url = "https://github.com/jakubgania/leetcode-solutions/blob/main/" + folder + "/" + item
         item = item.replace("." + extension, "")
-        f.write("[" + item + "](" + url + ")\n")
-        f.write("\n")
+        f.write("* [" + item + "](" + url + ")\n")
+        # f.write("\n")
 
 f.close()
