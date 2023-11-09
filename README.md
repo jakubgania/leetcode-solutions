@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 86
+## Python3 - 88
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [arithmetic-subarrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/arithmetic-subarrays.py)
@@ -57,6 +57,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [build-array-from-permutation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/build-array-from-permutation.py)
 * [shuffle-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-string.py)
 * [plus-one](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/plus-one.py)
+* [find-maximum-number-of-string-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-maximum-number-of-string-pairs.py)
 * [search-insert-position](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/search-insert-position.py)
 * [count-the-number-of-consistent-strings](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-the-number-of-consistent-strings.py)
 * [number-of-steps-to-reduce-a-number-to-zero](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-steps-to-reduce-a-number-to-zero.py)
@@ -84,11 +85,12 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [add-two-integers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/add-two-integers.py)
 * [sqrtx](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sqrtx.py)
 * [partition-array-according-to-given-pivot](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/partition-array-according-to-given-pivot.py)
+* [number-of-strings-that-appear-as-substrings-in-word](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-strings-that-appear-as-substrings-in-word.py)
 * [number-of-good-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-good-pairs.py)
 * [minimum-bit-flips-to-convert-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-bit-flips-to-convert-number.py)
 * [count-items-matching-a-rule](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-items-matching-a-rule.py)
 * [convert-an-array-into-a-2d-array-with-conditions](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-an-array-into-a-2d-array-with-conditions.py)
-## TypeScript - 10
+## TypeScript - 11
 
 * [debounce](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/debounce.ts)
 * [timeout-cancellation](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/timeout-cancellation.ts)
@@ -96,6 +98,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [sleep](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/sleep.ts)
 * [apply-transform-over-each-element-in-array](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/apply-transform-over-each-element-in-array.ts)
 * [chunk-array](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/chunk-array.ts)
+* [create-hello-world-function](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/create-hello-world-function.ts)
 * [counter-ii](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/counter-ii.ts)
 * [sort-by](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/sort-by.ts)
 * [filter-elements-from-array](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/filter-elements-from-array.ts)
