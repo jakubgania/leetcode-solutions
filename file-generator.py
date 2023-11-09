@@ -63,11 +63,11 @@ while True:
         f.close()
         os.system("code " + file_path)
 
-    user_input = input("Do you want to upload changes to the repository? (y/n): ")
-    if user_input.lower() == "y":
-        os.system("git add " + file_path)
-        os.system("git commit -m " + '"' + path + '"')
-        os.system("git push origin main")
+        user_input = input("Do you want to upload changes to the repository? (y/n): ")
+        if user_input.lower() == "y":
+            os.system("git add " + file_path)
+            os.system("git commit -m " + '"' + path + '"')
+            os.system("git push origin main")
     else:
         print('File exists')
         user_input = input("Do you want to view the file? (y/n): ")
