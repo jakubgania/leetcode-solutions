@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 75
+## Python3 - 86
 
 [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 
@@ -14,13 +14,19 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py)
 
+[flipping-an-image](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/flipping-an-image.py)
+
 [number-of-arithmetic-triplets](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-arithmetic-triplets.py)
 
 [difference-between-ones-and-zeros-in-row-and-column](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/difference-between-ones-and-zeros-in-row-and-column.py)
 
+[divisible-and-non-divisible-sums-difference](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/divisible-and-non-divisible-sums-difference.py)
+
 [find-center-of-star-graph](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-center-of-star-graph.py)
 
 [range-sum-of-bst](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/range-sum-of-bst.py)
+
+[sum-of-all-odd-length-subarrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-odd-length-subarrays.py)
 
 [find-the-prefix-common-array-of-two-arrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-prefix-common-array-of-two-arrays.py)
 
@@ -35,6 +41,8 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 [binary-tree-level-order-traversal](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/binary-tree-level-order-traversal.py)
 
 [group-the-people-given-the-group-size-they-belong-to](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/group-the-people-given-the-group-size-they-belong-to.py)
+
+[check-if-the-sentence-is-pangram](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-the-sentence-is-pangram.py)
 
 [find-the-maximum-achievable-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-maximum-achievable-number.py)
 
@@ -54,6 +62,8 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [root-equals-sum-of-children](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/root-equals-sum-of-children.py)
 
+[split-a-string-in-balanced-strings](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/split-a-string-in-balanced-strings.py)
+
 [truncate-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/truncate-sentence.py)
 
 [insert-greatest-common-divisors-in-linked-list](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/insert-greatest-common-divisors-in-linked-list.py)
@@ -61,6 +71,8 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 [number-of-employees-who-met-the-target](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-employees-who-met-the-target.py)
 
 [how-many-numbers-are-smaller-than-the-current-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/how-many-numbers-are-smaller-than-the-current-number.py)
+
+[count-of-matches-in-tournament](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-of-matches-in-tournament.py)
 
 [maximum-number-of-words-found-in-sentences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-number-of-words-found-in-sentences.py)
 
@@ -80,11 +92,15 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [same-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/same-tree.py)
 
+[check-if-a-string-is-an-acronym-of-words](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-a-string-is-an-acronym-of-words.py)
+
 [rearrange-words-in-a-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-words-in-a-sentence.py)
 
 [goal-parser-interpretation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/goal-parser-interpretation.py)
 
 [rearrange-array-elements-by-sign](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-array-elements-by-sign.py)
+
+[decode-the-message](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decode-the-message.py)
 
 [remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-colored-pieces-if-both-neighbors-are-the-same-color.py)
 
@@ -116,7 +132,11 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [sort-the-students-by-their-kth-score](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-students-by-their-kth-score.py)
 
+[two-sum-ii-input-array-is-sorted](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/two-sum-ii-input-array-is-sorted.py)
+
 [to-lower-case](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/to-lower-case.py)
+
+[cells-in-a-range-on-an-excel-sheet](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/cells-in-a-range-on-an-excel-sheet.py)
 
 [widest-vertical-area-between-two-points-containing-no-points](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/widest-vertical-area-between-two-points-containing-no-points.py)
 
@@ -136,6 +156,8 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [smallest-even-multiple](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/smallest-even-multiple.py)
 
+[count-number-of-pairs-with-absolute-difference-k](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-number-of-pairs-with-absolute-difference-k.py)
+
 [count-pairs-whose-sum-is-less-than-target](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-pairs-whose-sum-is-less-than-target.py)
 
 [add-two-integers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/add-two-integers.py)
@@ -152,7 +174,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [convert-an-array-into-a-2d-array-with-conditions](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-an-array-into-a-2d-array-with-conditions.py)
 
-## TypeScript - 8
+## TypeScript - 9
 
 [debounce](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/debounce.ts)
 
@@ -166,11 +188,13 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [chunk-array](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/chunk-array.ts)
 
+[sort-by](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/sort-by.ts)
+
 [filter-elements-from-array](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/filter-elements-from-array.ts)
 
 [generate-fibonacci-sequence](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/generate-fibonacci-sequence.ts)
 
-## Pandas - 12
+## Pandas - 14
 
 [reshape-data-melt.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/reshape-data-melt.py)
 
@@ -178,11 +202,15 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [create-a-dataframe-from-list.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/create-a-dataframe-from-list.py)
 
+[drop-duplicate-rows.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/drop-duplicate-rows.py)
+
 [reshape-data-concatenate.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/reshape-data-concatenate.py)
 
 [modify-columns.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/modify-columns.py)
 
 [replace-employee-id-with-the-unique-identifier.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/replace-employee-id-with-the-unique-identifier.py)
+
+[reshape-data-pivot.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/reshape-data-pivot.py)
 
 [drop-missing-data.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/drop-missing-data.py)
 
@@ -196,15 +224,21 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 
 [change-data-type.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/change-data-type.py)
 
-## JavaScript - 3
+## JavaScript - 6
+
+[array-reduce-transformation](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-reduce-transformation.js)
 
 [allow-one-function-call](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/allow-one-function-call.js)
 
 [return-length-of-arguments-passed](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/return-length-of-arguments-passed.js)
 
+[function-composition](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/function-composition.js)
+
+[interval-cancellation](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/interval-cancellation.js)
+
 [array-wrapper](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-wrapper.js)
 
-## MySQL - 13
+## MySQL - 14
 
 [game-play-analysis-i](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/game-play-analysis-i.sql)
 
@@ -225,6 +259,8 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 [employee-bonus](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/employee-bonus.sql)
 
 [rearrange-products-table](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/rearrange-products-table.sql)
+
+[swap-salary](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/swap-salary.sql)
 
 [find-total-time-spent-by-each-employee](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/find-total-time-spent-by-each-employee.sql)
 
