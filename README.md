@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 88
+## Python3 - 93
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [arithmetic-subarrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/arithmetic-subarrays.py)
@@ -33,7 +33,9 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [sorting-the-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sorting-the-sentence.py)
 * [root-equals-sum-of-children](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/root-equals-sum-of-children.py)
 * [split-a-string-in-balanced-strings](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/split-a-string-in-balanced-strings.py)
+* [reverse-prefix-of-word](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/reverse-prefix-of-word.py)
 * [truncate-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/truncate-sentence.py)
+* [find-the-highest-altitude](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-highest-altitude.py)
 * [insert-greatest-common-divisors-in-linked-list](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/insert-greatest-common-divisors-in-linked-list.py)
 * [number-of-employees-who-met-the-target](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-employees-who-met-the-target.py)
 * [how-many-numbers-are-smaller-than-the-current-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/how-many-numbers-are-smaller-than-the-current-number.py)
@@ -82,10 +84,13 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [smallest-even-multiple](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/smallest-even-multiple.py)
 * [count-number-of-pairs-with-absolute-difference-k](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-number-of-pairs-with-absolute-difference-k.py)
 * [count-pairs-whose-sum-is-less-than-target](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-pairs-whose-sum-is-less-than-target.py)
+* [count-asterisks](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-asterisks.py)
 * [add-two-integers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/add-two-integers.py)
 * [sqrtx](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sqrtx.py)
 * [partition-array-according-to-given-pivot](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/partition-array-according-to-given-pivot.py)
+* [maximum-69-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-69-number.py)
 * [number-of-strings-that-appear-as-substrings-in-word](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-strings-that-appear-as-substrings-in-word.py)
+* [faulty-keyboard](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/faulty-keyboard.py)
 * [number-of-good-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-good-pairs.py)
 * [minimum-bit-flips-to-convert-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-bit-flips-to-convert-number.py)
 * [count-items-matching-a-rule](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-items-matching-a-rule.py)
@@ -119,13 +124,14 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [create-a-new-column.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/create-a-new-column.py)
 * [fill-missing-data.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/fill-missing-data.py)
 * [change-data-type.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/change-data-type.py)
-## JavaScript - 6
+## JavaScript - 7
 
 * [array-reduce-transformation](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-reduce-transformation.js)
 * [allow-one-function-call](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/allow-one-function-call.js)
 * [return-length-of-arguments-passed](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/return-length-of-arguments-passed.js)
 * [function-composition](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/function-composition.js)
 * [interval-cancellation](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/interval-cancellation.js)
+* [counter](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/counter.js)
 * [array-wrapper](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-wrapper.js)
 ## MySQL - 14
 
