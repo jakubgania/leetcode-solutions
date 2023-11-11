@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 93
+## Python3 - 100
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [arithmetic-subarrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/arithmetic-subarrays.py)
@@ -8,10 +8,13 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [decode-xored-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decode-xored-array.py)
 * [minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-sum-of-four-digit-number-after-splitting-digits.py)
 * [find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py)
+* [maximum-sum-with-exactly-k-elements](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-sum-with-exactly-k-elements.py)
 * [flipping-an-image](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/flipping-an-image.py)
 * [number-of-arithmetic-triplets](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-arithmetic-triplets.py)
 * [difference-between-ones-and-zeros-in-row-and-column](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/difference-between-ones-and-zeros-in-row-and-column.py)
+* [minimum-number-of-moves-to-seat-everyone](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-number-of-moves-to-seat-everyone.py)
 * [divisible-and-non-divisible-sums-difference](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/divisible-and-non-divisible-sums-difference.py)
+* [rotate-image](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rotate-image.py)
 * [find-center-of-star-graph](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-center-of-star-graph.py)
 * [range-sum-of-bst](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/range-sum-of-bst.py)
 * [sum-of-all-odd-length-subarrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-odd-length-subarrays.py)
@@ -48,11 +51,14 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [rename-columns](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rename-columns.py)
 * [subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/subtract-the-product-and-sum-of-digits-of-an-integer.py)
 * [kids-with-the-greatest-number-of-candies](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/kids-with-the-greatest-number-of-candies.py)
+* [decrypt-string-from-alphabet-to-integer-mapping](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decrypt-string-from-alphabet-to-integer-mapping.py)
 * [same-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/same-tree.py)
 * [check-if-a-string-is-an-acronym-of-words](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-a-string-is-an-acronym-of-words.py)
 * [rearrange-words-in-a-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-words-in-a-sentence.py)
 * [goal-parser-interpretation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/goal-parser-interpretation.py)
+* [remove-outermost-parentheses](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-outermost-parentheses.py)
 * [rearrange-array-elements-by-sign](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-array-elements-by-sign.py)
+* [replace-all-digits-with-characters](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/replace-all-digits-with-characters.py)
 * [decode-the-message](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decode-the-message.py)
 * [remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-colored-pieces-if-both-neighbors-are-the-same-color.py)
 * [sort-the-matrix-diagonallydescription](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-matrix-diagonallydescription.py)
@@ -67,6 +73,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [create-target-array-in-the-given-order](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/create-target-array-in-the-given-order.py)
 * [encode-and-decode-tinyurl](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/encode-and-decode-tinyurl.py)
 * [check-if-two-string-arrays-are-equivalent](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-two-string-arrays-are-equivalent.py)
+* [find-valid-matrix-given-row-and-column-sums](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-valid-matrix-given-row-and-column-sums.py)
 * [convert-the-temperature](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-the-temperature.py)
 * [final-value-of-variable-after-performing-operations](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/final-value-of-variable-after-performing-operations.py)
 * [sort-the-students-by-their-kth-score](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-students-by-their-kth-score.py)
