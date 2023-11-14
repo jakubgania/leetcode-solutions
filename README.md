@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 100
+## Python3 - 106
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [arithmetic-subarrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/arithmetic-subarrays.py)
@@ -25,6 +25,8 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/partitioning-into-minimum-number-of-deci-binary-numbers.py)
 * [binary-tree-level-order-traversal](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/binary-tree-level-order-traversal.py)
 * [group-the-people-given-the-group-size-they-belong-to](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/group-the-people-given-the-group-size-they-belong-to.py)
+* [maximum-nesting-depth-of-the-parentheses](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-nesting-depth-of-the-parentheses.py)
+* [matrix-diagonal-sum](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/matrix-diagonal-sum.py)
 * [check-if-the-sentence-is-pangram](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-the-sentence-is-pangram.py)
 * [find-the-maximum-achievable-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-maximum-achievable-number.py)
 * [merge-sorted-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-sorted-array.py)
@@ -52,6 +54,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/subtract-the-product-and-sum-of-digits-of-an-integer.py)
 * [kids-with-the-greatest-number-of-candies](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/kids-with-the-greatest-number-of-candies.py)
 * [decrypt-string-from-alphabet-to-integer-mapping](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decrypt-string-from-alphabet-to-integer-mapping.py)
+* [maximum-product-difference-between-two-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-product-difference-between-two-pairs.py)
 * [same-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/same-tree.py)
 * [check-if-a-string-is-an-acronym-of-words](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-a-string-is-an-acronym-of-words.py)
 * [rearrange-words-in-a-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-words-in-a-sentence.py)
@@ -75,6 +78,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [check-if-two-string-arrays-are-equivalent](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-two-string-arrays-are-equivalent.py)
 * [find-valid-matrix-given-row-and-column-sums](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-valid-matrix-given-row-and-column-sums.py)
 * [convert-the-temperature](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-the-temperature.py)
+* [convert-binary-number-in-a-linked-list-to-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-binary-number-in-a-linked-list-to-integer.py)
 * [final-value-of-variable-after-performing-operations](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/final-value-of-variable-after-performing-operations.py)
 * [sort-the-students-by-their-kth-score](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-students-by-their-kth-score.py)
 * [two-sum-ii-input-array-is-sorted](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/two-sum-ii-input-array-is-sorted.py)
@@ -86,12 +90,14 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [shuffle-the-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-the-array.py)
 * [left-and-right-sum-differences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/left-and-right-sum-differences.py)
 * [design-parking-system](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/design-parking-system.py)
+* [count-good-triplets](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-good-triplets.py)
 * [deepest-leaves-sum](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/deepest-leaves-sum.py)
 * [concatenation-of-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/concatenation-of-array.py)
 * [smallest-even-multiple](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/smallest-even-multiple.py)
 * [count-number-of-pairs-with-absolute-difference-k](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-number-of-pairs-with-absolute-difference-k.py)
 * [count-pairs-whose-sum-is-less-than-target](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-pairs-whose-sum-is-less-than-target.py)
 * [count-asterisks](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-asterisks.py)
+* [largest-local-values-in-a-matrix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/largest-local-values-in-a-matrix.py)
 * [add-two-integers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/add-two-integers.py)
 * [sqrtx](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sqrtx.py)
 * [partition-array-according-to-given-pivot](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/partition-array-according-to-given-pivot.py)
