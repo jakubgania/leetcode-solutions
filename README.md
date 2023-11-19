@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 120
+## Python3 - 124
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [arithmetic-subarrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/arithmetic-subarrays.py)
@@ -50,6 +50,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [find-the-highest-altitude](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-highest-altitude.py)
 * [insert-greatest-common-divisors-in-linked-list](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/insert-greatest-common-divisors-in-linked-list.py)
 * [number-of-employees-who-met-the-target](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-employees-who-met-the-target.py)
+* [middle-of-the-linked-list](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/middle-of-the-linked-list.py)
 * [how-many-numbers-are-smaller-than-the-current-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/how-many-numbers-are-smaller-than-the-current-number.py)
 * [count-of-matches-in-tournament](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-of-matches-in-tournament.py)
 * [maximum-number-of-words-found-in-sentences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-number-of-words-found-in-sentences.py)
@@ -72,17 +73,20 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [equal-row-and-column-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/equal-row-and-column-pairs.py)
 * [replace-all-digits-with-characters](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/replace-all-digits-with-characters.py)
 * [decode-the-message](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decode-the-message.py)
+* [lexicographically-smallest-palindrome](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/lexicographically-smallest-palindrome.py)
 * [remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-colored-pieces-if-both-neighbors-are-the-same-color.py)
 * [sort-the-matrix-diagonallydescription](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-matrix-diagonallydescription.py)
 * [build-array-from-permutation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/build-array-from-permutation.py)
 * [shuffle-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-string.py)
 * [plus-one](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/plus-one.py)
 * [find-maximum-number-of-string-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-maximum-number-of-string-pairs.py)
+* [find-the-distinct-difference-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-distinct-difference-array.py)
 * [search-insert-position](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/search-insert-position.py)
 * [count-the-number-of-consistent-strings](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-the-number-of-consistent-strings.py)
 * [number-of-steps-to-reduce-a-number-to-zero](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-steps-to-reduce-a-number-to-zero.py)
 * [defanging-an-ip-address](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/defanging-an-ip-address.py)
 * [create-target-array-in-the-given-order](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/create-target-array-in-the-given-order.py)
+* [maximum-product-of-two-elements-in-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-product-of-two-elements-in-an-array.py)
 * [encode-and-decode-tinyurl](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/encode-and-decode-tinyurl.py)
 * [check-if-two-string-arrays-are-equivalent](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-two-string-arrays-are-equivalent.py)
 * [find-valid-matrix-given-row-and-column-sums](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-valid-matrix-given-row-and-column-sums.py)
