@@ -1,8 +1,9 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 124
+## Python3 - 127
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
+* [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
 * [arithmetic-subarrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/arithmetic-subarrays.py)
 * [design-an-ordered-stream](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/design-an-ordered-stream.py)
 * [decode-xored-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decode-xored-array.py)
@@ -13,6 +14,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [maximum-count-of-positive-integer-and-negative-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-count-of-positive-integer-and-negative-integer.py)
 * [flipping-an-image](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/flipping-an-image.py)
 * [number-of-arithmetic-triplets](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-arithmetic-triplets.py)
+* [reverse-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/reverse-string.py)
 * [difference-between-ones-and-zeros-in-row-and-column](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/difference-between-ones-and-zeros-in-row-and-column.py)
 * [minimum-number-of-moves-to-seat-everyone](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-number-of-moves-to-seat-everyone.py)
 * [divisible-and-non-divisible-sums-difference](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/divisible-and-non-divisible-sums-difference.py)
@@ -103,6 +105,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [sum-of-unique-elements](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-unique-elements.py)
 * [shuffle-the-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-the-array.py)
 * [left-and-right-sum-differences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/left-and-right-sum-differences.py)
+* [add-binary](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/add-binary.py)
 * [design-parking-system](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/design-parking-system.py)
 * [count-good-triplets](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-good-triplets.py)
 * [deepest-leaves-sum](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/deepest-leaves-sum.py)
@@ -164,7 +167,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [interval-cancellation](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/interval-cancellation.js)
 * [counter](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/counter.js)
 * [array-wrapper](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-wrapper.js)
-## MySQL - 14
+## MySQL - 15
 
 * [game-play-analysis-i](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/game-play-analysis-i.sql)
 * [daily-leads-and-partners](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/daily-leads-and-partners.sql)
@@ -178,5 +181,6 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [rearrange-products-table](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/rearrange-products-table.sql)
 * [swap-salary](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/swap-salary.sql)
 * [find-total-time-spent-by-each-employee](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/find-total-time-spent-by-each-employee.sql)
+* [combine-two-tables](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/combine-two-tables.sql)
 * [the-latest-login-in-2020](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/the-latest-login-in-2020.sql)
 * [duplicate-emails](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/duplicate-emails.sql)
