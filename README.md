@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 127
+## Python3 - 131
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -22,6 +22,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [find-center-of-star-graph](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-center-of-star-graph.py)
 * [range-sum-of-bst](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/range-sum-of-bst.py)
 * [count-negative-numbers-in-a-sorted-matrix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-negative-numbers-in-a-sorted-matrix.py)
+* [count-equal-and-divisible-pairs-in-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-equal-and-divisible-pairs-in-an-array.py)
 * [sum-of-all-odd-length-subarrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-odd-length-subarrays.py)
 * [find-the-prefix-common-array-of-two-arrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-prefix-common-array-of-two-arrays.py)
 * [xor-operation-in-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/xor-operation-in-an-array.py)
@@ -87,7 +88,9 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [count-the-number-of-consistent-strings](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-the-number-of-consistent-strings.py)
 * [number-of-steps-to-reduce-a-number-to-zero](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-steps-to-reduce-a-number-to-zero.py)
 * [defanging-an-ip-address](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/defanging-an-ip-address.py)
+* [subarrays-distinct-element-sum-of-squares-i](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/subarrays-distinct-element-sum-of-squares-i.py)
 * [create-target-array-in-the-given-order](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/create-target-array-in-the-given-order.py)
+* [find-the-pivot-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-pivot-integer.py)
 * [maximum-product-of-two-elements-in-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-product-of-two-elements-in-an-array.py)
 * [encode-and-decode-tinyurl](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/encode-and-decode-tinyurl.py)
 * [check-if-two-string-arrays-are-equivalent](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-two-string-arrays-are-equivalent.py)
@@ -113,6 +116,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [concatenation-of-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/concatenation-of-array.py)
 * [smallest-even-multiple](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/smallest-even-multiple.py)
 * [count-number-of-pairs-with-absolute-difference-k](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-number-of-pairs-with-absolute-difference-k.py)
+* [calculate-delayed-arrival-time](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/calculate-delayed-arrival-time.py)
 * [rings-and-rods](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rings-and-rods.py)
 * [count-pairs-whose-sum-is-less-than-target](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-pairs-whose-sum-is-less-than-target.py)
 * [the-k-weakest-rows-in-a-matrix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/the-k-weakest-rows-in-a-matrix.py)
