@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 131
+## Python3 - 137
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -19,6 +19,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [minimum-number-of-moves-to-seat-everyone](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-number-of-moves-to-seat-everyone.py)
 * [divisible-and-non-divisible-sums-difference](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/divisible-and-non-divisible-sums-difference.py)
 * [rotate-image](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rotate-image.py)
+* [minimum-time-visiting-all-points](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-time-visiting-all-points.py)
 * [find-center-of-star-graph](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-center-of-star-graph.py)
 * [range-sum-of-bst](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/range-sum-of-bst.py)
 * [count-negative-numbers-in-a-sorted-matrix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-negative-numbers-in-a-sorted-matrix.py)
@@ -33,6 +34,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [group-the-people-given-the-group-size-they-belong-to](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/group-the-people-given-the-group-size-they-belong-to.py)
 * [maximum-nesting-depth-of-the-parentheses](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-nesting-depth-of-the-parentheses.py)
 * [matrix-diagonal-sum](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/matrix-diagonal-sum.py)
+* [find-first-palindromic-string-in-the-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-first-palindromic-string-in-the-array.py)
 * [check-if-the-sentence-is-pangram](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-the-sentence-is-pangram.py)
 * [minimum-additions-to-make-valid-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-additions-to-make-valid-string.py)
 * [find-the-maximum-achievable-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-maximum-achievable-number.py)
@@ -42,6 +44,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [design-hashmap](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/design-hashmap.py)
 * [row-with-maximum-ones](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/row-with-maximum-ones.py)
 * [find-the-original-array-of-prefix-xor](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-original-array-of-prefix-xor.py)
+* [minimum-operations-to-make-the-array-increasing](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-operations-to-make-the-array-increasing.py)
 * [running-sum-of-1d-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/running-sum-of-1d-array.py)
 * [merge-strings-alternately](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-strings-alternately.py)
 * [sorting-the-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sorting-the-sentence.py)
@@ -80,6 +83,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-colored-pieces-if-both-neighbors-are-the-same-color.py)
 * [sort-the-matrix-diagonallydescription](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-matrix-diagonallydescription.py)
 * [build-array-from-permutation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/build-array-from-permutation.py)
+* [number-of-rectangles-that-can-form-the-largest-square](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-rectangles-that-can-form-the-largest-square.py)
 * [shuffle-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-string.py)
 * [plus-one](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/plus-one.py)
 * [find-maximum-number-of-string-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-maximum-number-of-string-pairs.py)
@@ -88,6 +92,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [count-the-number-of-consistent-strings](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-the-number-of-consistent-strings.py)
 * [number-of-steps-to-reduce-a-number-to-zero](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-steps-to-reduce-a-number-to-zero.py)
 * [defanging-an-ip-address](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/defanging-an-ip-address.py)
+* [search-in-a-binary-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/search-in-a-binary-search-tree.py)
 * [subarrays-distinct-element-sum-of-squares-i](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/subarrays-distinct-element-sum-of-squares-i.py)
 * [create-target-array-in-the-given-order](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/create-target-array-in-the-given-order.py)
 * [find-the-pivot-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-pivot-integer.py)
@@ -105,6 +110,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [widest-vertical-area-between-two-points-containing-no-points](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/widest-vertical-area-between-two-points-containing-no-points.py)
 * [difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/difference-between-element-sum-and-digit-sum-of-an-array.py)
 * [sum-multiples](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-multiples.py)
+* [merge-two-binary-trees](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-two-binary-trees.py)
 * [sum-of-unique-elements](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-unique-elements.py)
 * [shuffle-the-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-the-array.py)
 * [left-and-right-sum-differences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/left-and-right-sum-differences.py)
