@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 140
+## Python3 - 144
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -45,6 +45,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [row-with-maximum-ones](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/row-with-maximum-ones.py)
 * [find-the-original-array-of-prefix-xor](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-original-array-of-prefix-xor.py)
 * [minimum-operations-to-make-the-array-increasing](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-operations-to-make-the-array-increasing.py)
+* [separate-the-digits-in-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/separate-the-digits-in-an-array.py)
 * [running-sum-of-1d-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/running-sum-of-1d-array.py)
 * [merge-strings-alternately](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-strings-alternately.py)
 * [sorting-the-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sorting-the-sentence.py)
@@ -77,6 +78,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [goal-parser-interpretation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/goal-parser-interpretation.py)
 * [remove-outermost-parentheses](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-outermost-parentheses.py)
 * [rearrange-array-elements-by-sign](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-array-elements-by-sign.py)
+* [self-dividing-numbers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/self-dividing-numbers.py)
 * [equal-row-and-column-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/equal-row-and-column-pairs.py)
 * [replace-all-digits-with-characters](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/replace-all-digits-with-characters.py)
 * [decode-the-message](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decode-the-message.py)
@@ -97,6 +99,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [search-in-a-binary-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/search-in-a-binary-search-tree.py)
 * [subarrays-distinct-element-sum-of-squares-i](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/subarrays-distinct-element-sum-of-squares-i.py)
 * [create-target-array-in-the-given-order](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/create-target-array-in-the-given-order.py)
+* [remove-trailing-zeros-from-a-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-trailing-zeros-from-a-string.py)
 * [find-the-pivot-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-pivot-integer.py)
 * [maximum-product-of-two-elements-in-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-product-of-two-elements-in-an-array.py)
 * [encode-and-decode-tinyurl](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/encode-and-decode-tinyurl.py)
@@ -104,6 +107,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [check-if-two-string-arrays-are-equivalent](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-two-string-arrays-are-equivalent.py)
 * [find-valid-matrix-given-row-and-column-sums](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-valid-matrix-given-row-and-column-sums.py)
 * [convert-the-temperature](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-the-temperature.py)
+* [di-string-match](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/di-string-match.py)
 * [convert-binary-number-in-a-linked-list-to-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-binary-number-in-a-linked-list-to-integer.py)
 * [final-value-of-variable-after-performing-operations](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/final-value-of-variable-after-performing-operations.py)
 * [sort-the-students-by-their-kth-score](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-students-by-their-kth-score.py)
