@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 144
+## Python3 - 148
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -47,10 +47,12 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [minimum-operations-to-make-the-array-increasing](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-operations-to-make-the-array-increasing.py)
 * [separate-the-digits-in-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/separate-the-digits-in-an-array.py)
 * [running-sum-of-1d-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/running-sum-of-1d-array.py)
+* [sort-integers-by-the-number-of-1-bits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-integers-by-the-number-of-1-bits.py)
 * [merge-strings-alternately](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-strings-alternately.py)
 * [sorting-the-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sorting-the-sentence.py)
 * [root-equals-sum-of-children](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/root-equals-sum-of-children.py)
 * [split-a-string-in-balanced-strings](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/split-a-string-in-balanced-strings.py)
+* [array-partition](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/array-partition.py)
 * [reverse-prefix-of-word](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/reverse-prefix-of-word.py)
 * [truncate-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/truncate-sentence.py)
 * [max-increase-to-keep-city-skyline](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/max-increase-to-keep-city-skyline.py)
@@ -73,11 +75,13 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [decrypt-string-from-alphabet-to-integer-mapping](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decrypt-string-from-alphabet-to-integer-mapping.py)
 * [maximum-product-difference-between-two-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-product-difference-between-two-pairs.py)
 * [same-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/same-tree.py)
+* [evaluate-boolean-binary-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/evaluate-boolean-binary-tree.py)
 * [check-if-a-string-is-an-acronym-of-words](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-a-string-is-an-acronym-of-words.py)
 * [rearrange-words-in-a-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-words-in-a-sentence.py)
 * [goal-parser-interpretation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/goal-parser-interpretation.py)
 * [remove-outermost-parentheses](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-outermost-parentheses.py)
 * [rearrange-array-elements-by-sign](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-array-elements-by-sign.py)
+* [determine-color-of-a-chessboard-square](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/determine-color-of-a-chessboard-square.py)
 * [self-dividing-numbers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/self-dividing-numbers.py)
 * [equal-row-and-column-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/equal-row-and-column-pairs.py)
 * [replace-all-digits-with-characters](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/replace-all-digits-with-characters.py)
