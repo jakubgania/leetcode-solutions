@@ -1,5 +1,6 @@
 import os
 from urllib.parse import urlparse
+import subprocess
 
 folders = {
     "py": "Python3",
@@ -29,6 +30,20 @@ comments = {
 }
 
 flag = False
+
+print("Recently added task: ")
+result = subprocess.run(
+    ['git log -2 --max-count=1 --pretty="format:%s%n%H" | cat'],
+    shell=True,
+    capture_output=True,
+    text=True
+)
+lines = result.stdout.split()
+print(lines[0])
+# print("https://github.com/jakubgania/leetcode-solutions/commit/" + lines[1])
+# https://github.com/jakubgania/leetcode-solutions/commits/main
+# os.system("git log -2 --max-count=1 --pretty=%s | cat")
+# print(" ")
 
 while True:
     if flag:
