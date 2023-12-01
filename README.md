@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 148
+## Python3 - 152
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -26,6 +26,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [count-equal-and-divisible-pairs-in-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-equal-and-divisible-pairs-in-an-array.py)
 * [sum-of-all-odd-length-subarrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-odd-length-subarrays.py)
 * [find-the-prefix-common-array-of-two-arrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-prefix-common-array-of-two-arrays.py)
+* [find-numbers-with-even-number-of-digits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-numbers-with-even-number-of-digits.py)
 * [xor-operation-in-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/xor-operation-in-an-array.py)
 * [jewels-and-stones](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/jewels-and-stones.py)
 * [decompress-run-length-encoded-list](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decompress-run-length-encoded-list.py)
@@ -79,10 +80,12 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [check-if-a-string-is-an-acronym-of-words](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-a-string-is-an-acronym-of-words.py)
 * [rearrange-words-in-a-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-words-in-a-sentence.py)
 * [goal-parser-interpretation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/goal-parser-interpretation.py)
+* [check-if-all-characters-have-equal-number-of-occurrences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-all-characters-have-equal-number-of-occurrences.py)
 * [remove-outermost-parentheses](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-outermost-parentheses.py)
 * [rearrange-array-elements-by-sign](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-array-elements-by-sign.py)
 * [determine-color-of-a-chessboard-square](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/determine-color-of-a-chessboard-square.py)
 * [self-dividing-numbers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/self-dividing-numbers.py)
+* [max-area-of-island](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/max-area-of-island.py)
 * [equal-row-and-column-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/equal-row-and-column-pairs.py)
 * [replace-all-digits-with-characters](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/replace-all-digits-with-characters.py)
 * [decode-the-message](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decode-the-message.py)
@@ -94,6 +97,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [number-of-rectangles-that-can-form-the-largest-square](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-rectangles-that-can-form-the-largest-square.py)
 * [shuffle-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-string.py)
 * [plus-one](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/plus-one.py)
+* [counting-bits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/counting-bits.py)
 * [find-maximum-number-of-string-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-maximum-number-of-string-pairs.py)
 * [find-the-distinct-difference-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-distinct-difference-array.py)
 * [search-insert-position](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/search-insert-position.py)
@@ -179,9 +183,10 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [create-a-new-column.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/create-a-new-column.py)
 * [fill-missing-data.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/fill-missing-data.py)
 * [change-data-type.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/change-data-type.py)
-## JavaScript - 7
+## JavaScript - 8
 
 * [array-reduce-transformation](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-reduce-transformation.js)
+* [is-object-empty](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/is-object-empty.js)
 * [allow-one-function-call](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/allow-one-function-call.js)
 * [return-length-of-arguments-passed](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/return-length-of-arguments-passed.js)
 * [function-composition](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/function-composition.js)
