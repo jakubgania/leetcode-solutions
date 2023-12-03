@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 152
+## Python3 - 157
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -41,12 +41,14 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [find-the-maximum-achievable-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-maximum-achievable-number.py)
 * [merge-sorted-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-sorted-array.py)
 * [find-the-score-of-all-prefixes-of-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-score-of-all-prefixes-of-an-array.py)
+* [destination-city](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/destination-city.py)
 * [sum-of-values-at-indices-with-k-set-bits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-values-at-indices-with-k-set-bits.py)
 * [design-hashmap](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/design-hashmap.py)
 * [row-with-maximum-ones](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/row-with-maximum-ones.py)
 * [find-the-original-array-of-prefix-xor](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-original-array-of-prefix-xor.py)
 * [minimum-operations-to-make-the-array-increasing](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-operations-to-make-the-array-increasing.py)
 * [separate-the-digits-in-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/separate-the-digits-in-an-array.py)
+* [final-prices-with-a-special-discount-in-a-shop](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/final-prices-with-a-special-discount-in-a-shop.py)
 * [running-sum-of-1d-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/running-sum-of-1d-array.py)
 * [sort-integers-by-the-number-of-1-bits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-integers-by-the-number-of-1-bits.py)
 * [merge-strings-alternately](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-strings-alternately.py)
@@ -104,6 +106,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [count-the-number-of-consistent-strings](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-the-number-of-consistent-strings.py)
 * [number-of-steps-to-reduce-a-number-to-zero](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-steps-to-reduce-a-number-to-zero.py)
 * [defanging-an-ip-address](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/defanging-an-ip-address.py)
+* [sum-of-digits-in-base-k](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-digits-in-base-k.py)
 * [search-in-a-binary-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/search-in-a-binary-search-tree.py)
 * [subarrays-distinct-element-sum-of-squares-i](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/subarrays-distinct-element-sum-of-squares-i.py)
 * [create-target-array-in-the-given-order](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/create-target-array-in-the-given-order.py)
@@ -140,6 +143,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [calculate-delayed-arrival-time](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/calculate-delayed-arrival-time.py)
 * [rings-and-rods](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rings-and-rods.py)
 * [count-pairs-whose-sum-is-less-than-target](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-pairs-whose-sum-is-less-than-target.py)
+* [generate-a-string-with-characters-that-have-odd-counts](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/generate-a-string-with-characters-that-have-odd-counts.py)
 * [the-k-weakest-rows-in-a-matrix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/the-k-weakest-rows-in-a-matrix.py)
 * [count-asterisks](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-asterisks.py)
 * [largest-local-values-in-a-matrix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/largest-local-values-in-a-matrix.py)
@@ -149,6 +153,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [maximum-69-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-69-number.py)
 * [number-of-strings-that-appear-as-substrings-in-word](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-strings-that-appear-as-substrings-in-word.py)
 * [delete-greatest-value-in-each-row](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/delete-greatest-value-in-each-row.py)
+* [counting-words-with-a-given-prefix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/counting-words-with-a-given-prefix.py)
 * [faulty-keyboard](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/faulty-keyboard.py)
 * [number-of-good-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-good-pairs.py)
 * [minimum-bit-flips-to-convert-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-bit-flips-to-convert-number.py)
@@ -193,7 +198,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [interval-cancellation](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/interval-cancellation.js)
 * [counter](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/counter.js)
 * [array-wrapper](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-wrapper.js)
-## MySQL - 16
+## MySQL - 17
 
 * [game-play-analysis-i](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/game-play-analysis-i.sql)
 * [daily-leads-and-partners](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/daily-leads-and-partners.sql)
@@ -211,3 +216,4 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [reformat-department-table](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/reformat-department-table.sql)
 * [the-latest-login-in-2020](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/the-latest-login-in-2020.sql)
 * [duplicate-emails](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/duplicate-emails.sql)
+* [group-sold-products-by-the-date](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/group-sold-products-by-the-date.sql)
