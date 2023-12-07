@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 160
+## Python3 - 164
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -63,6 +63,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [cells-with-odd-values-in-a-matrix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/cells-with-odd-values-in-a-matrix.py)
 * [insert-greatest-common-divisors-in-linked-list](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/insert-greatest-common-divisors-in-linked-list.py)
 * [number-of-employees-who-met-the-target](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-employees-who-met-the-target.py)
+* [number-of-senior-citizens](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-senior-citizens.py)
 * [middle-of-the-linked-list](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/middle-of-the-linked-list.py)
 * [how-many-numbers-are-smaller-than-the-current-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/how-many-numbers-are-smaller-than-the-current-number.py)
 * [count-of-matches-in-tournament](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-of-matches-in-tournament.py)
@@ -86,6 +87,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [remove-outermost-parentheses](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-outermost-parentheses.py)
 * [rearrange-array-elements-by-sign](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-array-elements-by-sign.py)
 * [determine-color-of-a-chessboard-square](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/determine-color-of-a-chessboard-square.py)
+* [n-repeated-element-in-size-2n-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/n-repeated-element-in-size-2n-array.py)
 * [self-dividing-numbers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/self-dividing-numbers.py)
 * [max-area-of-island](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/max-area-of-island.py)
 * [equal-row-and-column-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/equal-row-and-column-pairs.py)
@@ -99,6 +101,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [number-of-rectangles-that-can-form-the-largest-square](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-rectangles-that-can-form-the-largest-square.py)
 * [shuffle-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-string.py)
 * [plus-one](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/plus-one.py)
+* [invert-binary-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/invert-binary-tree.py)
 * [determine-if-string-halves-are-alike](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/determine-if-string-halves-are-alike.py)
 * [counting-bits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/counting-bits.py)
 * [find-maximum-number-of-string-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-maximum-number-of-string-pairs.py)
@@ -133,6 +136,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [sum-multiples](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-multiples.py)
 * [merge-two-binary-trees](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-two-binary-trees.py)
 * [sum-of-unique-elements](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-unique-elements.py)
+* [sort-array-by-parity](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-array-by-parity.py)
 * [shuffle-the-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-the-array.py)
 * [left-and-right-sum-differences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/left-and-right-sum-differences.py)
 * [add-binary](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/add-binary.py)
