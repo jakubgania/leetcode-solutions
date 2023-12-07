@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 157
+## Python3 - 160
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -99,6 +99,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [number-of-rectangles-that-can-form-the-largest-square](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-rectangles-that-can-form-the-largest-square.py)
 * [shuffle-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-string.py)
 * [plus-one](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/plus-one.py)
+* [determine-if-string-halves-are-alike](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/determine-if-string-halves-are-alike.py)
 * [counting-bits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/counting-bits.py)
 * [find-maximum-number-of-string-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-maximum-number-of-string-pairs.py)
 * [find-the-distinct-difference-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-distinct-difference-array.py)
@@ -112,6 +113,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [create-target-array-in-the-given-order](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/create-target-array-in-the-given-order.py)
 * [remove-trailing-zeros-from-a-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-trailing-zeros-from-a-string.py)
 * [find-the-pivot-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-pivot-integer.py)
+* [find-greatest-common-divisor-of-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-greatest-common-divisor-of-array.py)
 * [maximum-product-of-two-elements-in-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-product-of-two-elements-in-an-array.py)
 * [encode-and-decode-tinyurl](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/encode-and-decode-tinyurl.py)
 * [find-the-difference-of-two-arrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-difference-of-two-arrays.py)
@@ -122,6 +124,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [convert-binary-number-in-a-linked-list-to-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-binary-number-in-a-linked-list-to-integer.py)
 * [final-value-of-variable-after-performing-operations](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/final-value-of-variable-after-performing-operations.py)
 * [sort-the-students-by-their-kth-score](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-students-by-their-kth-score.py)
+* [find-n-unique-integers-sum-up-to-zero](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-n-unique-integers-sum-up-to-zero.py)
 * [two-sum-ii-input-array-is-sorted](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/two-sum-ii-input-array-is-sorted.py)
 * [to-lower-case](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/to-lower-case.py)
 * [cells-in-a-range-on-an-excel-sheet](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/cells-in-a-range-on-an-excel-sheet.py)
