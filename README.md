@@ -1,9 +1,10 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 164
+## Python3 - 168
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
+* [percentage-of-letter-in-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/percentage-of-letter-in-string.py)
 * [arithmetic-subarrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/arithmetic-subarrays.py)
 * [design-an-ordered-stream](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/design-an-ordered-stream.py)
 * [decode-xored-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decode-xored-array.py)
@@ -30,6 +31,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [xor-operation-in-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/xor-operation-in-an-array.py)
 * [jewels-and-stones](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/jewels-and-stones.py)
 * [decompress-run-length-encoded-list](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decompress-run-length-encoded-list.py)
+* [projection-area-of-3d-shapes](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/projection-area-of-3d-shapes.py)
 * [partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/partitioning-into-minimum-number-of-deci-binary-numbers.py)
 * [binary-tree-level-order-traversal](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/binary-tree-level-order-traversal.py)
 * [group-the-people-given-the-group-size-they-belong-to](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/group-the-people-given-the-group-size-they-belong-to.py)
@@ -37,6 +39,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [matrix-diagonal-sum](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/matrix-diagonal-sum.py)
 * [find-first-palindromic-string-in-the-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-first-palindromic-string-in-the-array.py)
 * [check-if-the-sentence-is-pangram](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-the-sentence-is-pangram.py)
+* [find-target-indices-after-sorting-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-target-indices-after-sorting-array.py)
 * [minimum-additions-to-make-valid-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-additions-to-make-valid-string.py)
 * [find-the-maximum-achievable-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-maximum-achievable-number.py)
 * [merge-sorted-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-sorted-array.py)
@@ -53,6 +56,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [sort-integers-by-the-number-of-1-bits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-integers-by-the-number-of-1-bits.py)
 * [merge-strings-alternately](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-strings-alternately.py)
 * [sorting-the-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sorting-the-sentence.py)
+* [number-of-students-doing-homework-at-a-given-time](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-students-doing-homework-at-a-given-time.py)
 * [root-equals-sum-of-children](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/root-equals-sum-of-children.py)
 * [split-a-string-in-balanced-strings](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/split-a-string-in-balanced-strings.py)
 * [array-partition](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/array-partition.py)
