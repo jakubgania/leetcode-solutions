@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 168
+## Python3 - 173
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -33,6 +33,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [decompress-run-length-encoded-list](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decompress-run-length-encoded-list.py)
 * [projection-area-of-3d-shapes](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/projection-area-of-3d-shapes.py)
 * [partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/partitioning-into-minimum-number-of-deci-binary-numbers.py)
+* [merge-similar-items](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-similar-items.py)
 * [binary-tree-level-order-traversal](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/binary-tree-level-order-traversal.py)
 * [group-the-people-given-the-group-size-they-belong-to](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/group-the-people-given-the-group-size-they-belong-to.py)
 * [maximum-nesting-depth-of-the-parentheses](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-nesting-depth-of-the-parentheses.py)
@@ -99,6 +100,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [decode-the-message](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decode-the-message.py)
 * [lexicographically-smallest-palindrome](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/lexicographically-smallest-palindrome.py)
 * [remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-colored-pieces-if-both-neighbors-are-the-same-color.py)
+* [two-out-of-three](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/two-out-of-three.py)
 * [sort-the-matrix-diagonallydescription](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-matrix-diagonallydescription.py)
 * [build-array-from-permutation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/build-array-from-permutation.py)
 * [a-number-after-a-double-reversal](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/a-number-after-a-double-reversal.py)
@@ -115,6 +117,8 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [number-of-steps-to-reduce-a-number-to-zero](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-steps-to-reduce-a-number-to-zero.py)
 * [defanging-an-ip-address](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/defanging-an-ip-address.py)
 * [sum-of-digits-in-base-k](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-digits-in-base-k.py)
+* [points-that-intersect-with-cars](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/points-that-intersect-with-cars.py)
+* [number-of-laser-beams-in-a-bank](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-laser-beams-in-a-bank.py)
 * [search-in-a-binary-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/search-in-a-binary-search-tree.py)
 * [subarrays-distinct-element-sum-of-squares-i](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/subarrays-distinct-element-sum-of-squares-i.py)
 * [create-target-array-in-the-given-order](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/create-target-array-in-the-given-order.py)
@@ -122,6 +126,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [find-the-pivot-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-pivot-integer.py)
 * [find-greatest-common-divisor-of-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-greatest-common-divisor-of-array.py)
 * [maximum-product-of-two-elements-in-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-product-of-two-elements-in-an-array.py)
+* [strictly-palindromic-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/strictly-palindromic-number.py)
 * [encode-and-decode-tinyurl](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/encode-and-decode-tinyurl.py)
 * [find-the-difference-of-two-arrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-difference-of-two-arrays.py)
 * [check-if-two-string-arrays-are-equivalent](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-two-string-arrays-are-equivalent.py)
