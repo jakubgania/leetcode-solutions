@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 173
+## Python3 - 177
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -107,6 +107,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [number-of-rectangles-that-can-form-the-largest-square](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-rectangles-that-can-form-the-largest-square.py)
 * [shuffle-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-string.py)
 * [plus-one](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/plus-one.py)
+* [count-the-number-of-vowel-strings-in-range](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-the-number-of-vowel-strings-in-range.py)
 * [invert-binary-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/invert-binary-tree.py)
 * [determine-if-string-halves-are-alike](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/determine-if-string-halves-are-alike.py)
 * [counting-bits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/counting-bits.py)
@@ -117,11 +118,13 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [number-of-steps-to-reduce-a-number-to-zero](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-steps-to-reduce-a-number-to-zero.py)
 * [defanging-an-ip-address](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/defanging-an-ip-address.py)
 * [sum-of-digits-in-base-k](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-digits-in-base-k.py)
+* [minimize-string-length](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimize-string-length.py)
 * [points-that-intersect-with-cars](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/points-that-intersect-with-cars.py)
 * [number-of-laser-beams-in-a-bank](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-laser-beams-in-a-bank.py)
 * [search-in-a-binary-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/search-in-a-binary-search-tree.py)
 * [subarrays-distinct-element-sum-of-squares-i](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/subarrays-distinct-element-sum-of-squares-i.py)
 * [create-target-array-in-the-given-order](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/create-target-array-in-the-given-order.py)
+* [count-symmetric-integers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-symmetric-integers.py)
 * [remove-trailing-zeros-from-a-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-trailing-zeros-from-a-string.py)
 * [find-the-pivot-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-pivot-integer.py)
 * [find-greatest-common-divisor-of-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-greatest-common-divisor-of-array.py)
@@ -167,6 +170,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [sqrtx](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sqrtx.py)
 * [partition-array-according-to-given-pivot](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/partition-array-according-to-given-pivot.py)
 * [maximum-69-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-69-number.py)
+* [number-of-even-and-odd-bits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-even-and-odd-bits.py)
 * [number-of-strings-that-appear-as-substrings-in-word](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-strings-that-appear-as-substrings-in-word.py)
 * [delete-greatest-value-in-each-row](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/delete-greatest-value-in-each-row.py)
 * [counting-words-with-a-given-prefix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/counting-words-with-a-given-prefix.py)
