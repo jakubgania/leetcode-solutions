@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 177
+## Python3 - 180
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -46,6 +46,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [merge-sorted-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-sorted-array.py)
 * [find-the-score-of-all-prefixes-of-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-score-of-all-prefixes-of-an-array.py)
 * [destination-city](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/destination-city.py)
+* [number-of-unequal-triplets-in-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-unequal-triplets-in-array.py)
 * [sum-of-values-at-indices-with-k-set-bits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-values-at-indices-with-k-set-bits.py)
 * [design-hashmap](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/design-hashmap.py)
 * [row-with-maximum-ones](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/row-with-maximum-ones.py)
@@ -73,6 +74,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [how-many-numbers-are-smaller-than-the-current-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/how-many-numbers-are-smaller-than-the-current-number.py)
 * [count-of-matches-in-tournament](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-of-matches-in-tournament.py)
 * [maximum-number-of-words-found-in-sentences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-number-of-words-found-in-sentences.py)
+* [check-if-word-equals-summation-of-two-words](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-word-equals-summation-of-two-words.py)
 * [unique-morse-code-words](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/unique-morse-code-words.py)
 * [number-of-common-factors](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-common-factors.py)
 * [reverse-words-in-a-string-iii](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/reverse-words-in-a-string-iii.py)
@@ -158,6 +160,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [neither-minimum-nor-maximum](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/neither-minimum-nor-maximum.py)
 * [concatenation-of-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/concatenation-of-array.py)
 * [smallest-even-multiple](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/smallest-even-multiple.py)
+* [first-letter-to-appear-twice](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/first-letter-to-appear-twice.py)
 * [count-number-of-pairs-with-absolute-difference-k](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-number-of-pairs-with-absolute-difference-k.py)
 * [calculate-delayed-arrival-time](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/calculate-delayed-arrival-time.py)
 * [rings-and-rods](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rings-and-rods.py)
@@ -192,8 +195,9 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [sort-by](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/sort-by.ts)
 * [filter-elements-from-array](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/filter-elements-from-array.ts)
 * [generate-fibonacci-sequence](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/generate-fibonacci-sequence.ts)
-## Pandas - 14
+## Pandas - 15
 
+* [method-chaining.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/method-chaining.py)
 * [reshape-data-melt.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/reshape-data-melt.py)
 * [get-the-size-of-a-dataframe.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/get-the-size-of-a-dataframe.py)
 * [create-a-dataframe-from-list.py](https://github.com/jakubgania/leetcode-solutions/blob/main/Pandas/create-a-dataframe-from-list.py)
