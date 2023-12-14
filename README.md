@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 180
+## Python3 - 184
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -23,6 +23,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [minimum-time-visiting-all-points](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-time-visiting-all-points.py)
 * [find-center-of-star-graph](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-center-of-star-graph.py)
 * [range-sum-of-bst](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/range-sum-of-bst.py)
+* [count-prefixes-of-a-given-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-prefixes-of-a-given-string.py)
 * [count-negative-numbers-in-a-sorted-matrix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-negative-numbers-in-a-sorted-matrix.py)
 * [count-equal-and-divisible-pairs-in-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-equal-and-divisible-pairs-in-an-array.py)
 * [sum-of-all-odd-length-subarrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-odd-length-subarrays.py)
@@ -44,6 +45,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [minimum-additions-to-make-valid-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-additions-to-make-valid-string.py)
 * [find-the-maximum-achievable-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-maximum-achievable-number.py)
 * [merge-sorted-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-sorted-array.py)
+* [keep-multiplying-found-values-by-two](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/keep-multiplying-found-values-by-two.py)
 * [find-the-score-of-all-prefixes-of-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-score-of-all-prefixes-of-an-array.py)
 * [destination-city](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/destination-city.py)
 * [number-of-unequal-triplets-in-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-unequal-triplets-in-array.py)
@@ -68,6 +70,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [find-the-highest-altitude](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-highest-altitude.py)
 * [cells-with-odd-values-in-a-matrix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/cells-with-odd-values-in-a-matrix.py)
 * [insert-greatest-common-divisors-in-linked-list](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/insert-greatest-common-divisors-in-linked-list.py)
+* [check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-number-has-equal-digit-count-and-digit-value.py)
 * [number-of-employees-who-met-the-target](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-employees-who-met-the-target.py)
 * [number-of-senior-citizens](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-senior-citizens.py)
 * [middle-of-the-linked-list](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/middle-of-the-linked-list.py)
@@ -178,6 +181,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [delete-greatest-value-in-each-row](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/delete-greatest-value-in-each-row.py)
 * [counting-words-with-a-given-prefix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/counting-words-with-a-given-prefix.py)
 * [faulty-keyboard](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/faulty-keyboard.py)
+* [smallest-index-with-equal-value](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/smallest-index-with-equal-value.py)
 * [number-of-good-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-good-pairs.py)
 * [minimum-bit-flips-to-convert-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-bit-flips-to-convert-number.py)
 * [count-items-matching-a-rule](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-items-matching-a-rule.py)
