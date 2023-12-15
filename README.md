@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 184
+## Python3 - 187
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -9,6 +9,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [design-an-ordered-stream](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/design-an-ordered-stream.py)
 * [decode-xored-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decode-xored-array.py)
 * [minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-sum-of-four-digit-number-after-splitting-digits.py)
+* [substrings-of-size-three-with-distinct-characters](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/substrings-of-size-three-with-distinct-characters.py)
 * [find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py)
 * [sum-of-squares-of-special-elements](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-squares-of-special-elements.py)
 * [maximum-sum-with-exactly-k-elements](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-sum-with-exactly-k-elements.py)
@@ -74,6 +75,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [number-of-employees-who-met-the-target](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-employees-who-met-the-target.py)
 * [number-of-senior-citizens](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-senior-citizens.py)
 * [middle-of-the-linked-list](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/middle-of-the-linked-list.py)
+* [count-nodes-equal-to-average-of-subtree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-nodes-equal-to-average-of-subtree.py)
 * [how-many-numbers-are-smaller-than-the-current-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/how-many-numbers-are-smaller-than-the-current-number.py)
 * [count-of-matches-in-tournament](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-of-matches-in-tournament.py)
 * [maximum-number-of-words-found-in-sentences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-number-of-words-found-in-sentences.py)
@@ -169,6 +171,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [rings-and-rods](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rings-and-rods.py)
 * [count-pairs-whose-sum-is-less-than-target](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-pairs-whose-sum-is-less-than-target.py)
 * [generate-a-string-with-characters-that-have-odd-counts](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/generate-a-string-with-characters-that-have-odd-counts.py)
+* [maximum-number-of-words-you-can-type](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-number-of-words-you-can-type.py)
 * [the-k-weakest-rows-in-a-matrix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/the-k-weakest-rows-in-a-matrix.py)
 * [count-asterisks](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-asterisks.py)
 * [largest-local-values-in-a-matrix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/largest-local-values-in-a-matrix.py)
@@ -226,7 +229,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [interval-cancellation](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/interval-cancellation.js)
 * [counter](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/counter.js)
 * [array-wrapper](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-wrapper.js)
-## MySQL - 17
+## MySQL - 18
 
 * [game-play-analysis-i](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/game-play-analysis-i.sql)
 * [daily-leads-and-partners](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/daily-leads-and-partners.sql)
@@ -240,6 +243,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [rearrange-products-table](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/rearrange-products-table.sql)
 * [swap-salary](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/swap-salary.sql)
 * [find-total-time-spent-by-each-employee](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/find-total-time-spent-by-each-employee.sql)
+* [capital-gainloss](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/capital-gainloss.sql)
 * [combine-two-tables](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/combine-two-tables.sql)
 * [reformat-department-table](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/reformat-department-table.sql)
 * [the-latest-login-in-2020](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/the-latest-login-in-2020.sql)
