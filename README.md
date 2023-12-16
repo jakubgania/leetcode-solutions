@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 187
+## Python3 - 191
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -14,6 +14,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [sum-of-squares-of-special-elements](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-squares-of-special-elements.py)
 * [maximum-sum-with-exactly-k-elements](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-sum-with-exactly-k-elements.py)
 * [maximum-count-of-positive-integer-and-negative-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-count-of-positive-integer-and-negative-integer.py)
+* [n-ary-tree-preorder-traversal](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/n-ary-tree-preorder-traversal.py)
 * [flipping-an-image](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/flipping-an-image.py)
 * [number-of-arithmetic-triplets](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-arithmetic-triplets.py)
 * [reverse-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/reverse-string.py)
@@ -68,6 +69,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [reverse-prefix-of-word](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/reverse-prefix-of-word.py)
 * [truncate-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/truncate-sentence.py)
 * [max-increase-to-keep-city-skyline](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/max-increase-to-keep-city-skyline.py)
+* [split-strings-by-separator](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/split-strings-by-separator.py)
 * [find-the-highest-altitude](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-highest-altitude.py)
 * [cells-with-odd-values-in-a-matrix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/cells-with-odd-values-in-a-matrix.py)
 * [insert-greatest-common-divisors-in-linked-list](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/insert-greatest-common-divisors-in-linked-list.py)
@@ -145,9 +147,11 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [di-string-match](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/di-string-match.py)
 * [convert-binary-number-in-a-linked-list-to-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-binary-number-in-a-linked-list-to-integer.py)
 * [final-value-of-variable-after-performing-operations](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/final-value-of-variable-after-performing-operations.py)
+* [sort-array-by-increasing-frequency](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-array-by-increasing-frequency.py)
 * [sort-the-students-by-their-kth-score](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-students-by-their-kth-score.py)
 * [find-n-unique-integers-sum-up-to-zero](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-n-unique-integers-sum-up-to-zero.py)
 * [two-sum-ii-input-array-is-sorted](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/two-sum-ii-input-array-is-sorted.py)
+* [find-words-containing-character](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-words-containing-character.py)
 * [to-lower-case](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/to-lower-case.py)
 * [cells-in-a-range-on-an-excel-sheet](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/cells-in-a-range-on-an-excel-sheet.py)
 * [widest-vertical-area-between-two-points-containing-no-points](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/widest-vertical-area-between-two-points-containing-no-points.py)
