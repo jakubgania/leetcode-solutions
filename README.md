@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 191
+## Python3 - 193
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -19,6 +19,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [number-of-arithmetic-triplets](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-arithmetic-triplets.py)
 * [reverse-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/reverse-string.py)
 * [difference-between-ones-and-zeros-in-row-and-column](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/difference-between-ones-and-zeros-in-row-and-column.py)
+* [fibonacci-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/fibonacci-number.py)
 * [minimum-number-of-moves-to-seat-everyone](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-number-of-moves-to-seat-everyone.py)
 * [divisible-and-non-divisible-sums-difference](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/divisible-and-non-divisible-sums-difference.py)
 * [rotate-image](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rotate-image.py)
@@ -125,6 +126,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [search-insert-position](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/search-insert-position.py)
 * [count-the-number-of-consistent-strings](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-the-number-of-consistent-strings.py)
 * [number-of-steps-to-reduce-a-number-to-zero](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-steps-to-reduce-a-number-to-zero.py)
+* [univalued-binary-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/univalued-binary-tree.py)
 * [defanging-an-ip-address](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/defanging-an-ip-address.py)
 * [sum-of-digits-in-base-k](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-digits-in-base-k.py)
 * [minimize-string-length](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimize-string-length.py)
@@ -233,7 +235,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [interval-cancellation](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/interval-cancellation.js)
 * [counter](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/counter.js)
 * [array-wrapper](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-wrapper.js)
-## MySQL - 18
+## MySQL - 19
 
 * [game-play-analysis-i](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/game-play-analysis-i.sql)
 * [daily-leads-and-partners](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/daily-leads-and-partners.sql)
@@ -250,6 +252,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [capital-gainloss](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/capital-gainloss.sql)
 * [combine-two-tables](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/combine-two-tables.sql)
 * [reformat-department-table](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/reformat-department-table.sql)
+* [triangle-judgement](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/triangle-judgement.sql)
 * [the-latest-login-in-2020](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/the-latest-login-in-2020.sql)
 * [duplicate-emails](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/duplicate-emails.sql)
 * [group-sold-products-by-the-date](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/group-sold-products-by-the-date.sql)
