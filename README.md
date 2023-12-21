@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 193
+## Python3 - 196
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -69,6 +69,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [array-partition](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/array-partition.py)
 * [reverse-prefix-of-word](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/reverse-prefix-of-word.py)
 * [truncate-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/truncate-sentence.py)
+* [binary-search-tree-to-greater-sum-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/binary-search-tree-to-greater-sum-tree.py)
 * [max-increase-to-keep-city-skyline](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/max-increase-to-keep-city-skyline.py)
 * [split-strings-by-separator](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/split-strings-by-separator.py)
 * [find-the-highest-altitude](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-highest-altitude.py)
@@ -105,6 +106,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [n-repeated-element-in-size-2n-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/n-repeated-element-in-size-2n-array.py)
 * [self-dividing-numbers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/self-dividing-numbers.py)
 * [max-area-of-island](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/max-area-of-island.py)
+* [sum-of-nodes-with-even-valued-grandparent](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-nodes-with-even-valued-grandparent.py)
 * [equal-row-and-column-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/equal-row-and-column-pairs.py)
 * [replace-all-digits-with-characters](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/replace-all-digits-with-characters.py)
 * [decode-the-message](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decode-the-message.py)
@@ -157,6 +159,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [to-lower-case](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/to-lower-case.py)
 * [cells-in-a-range-on-an-excel-sheet](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/cells-in-a-range-on-an-excel-sheet.py)
 * [widest-vertical-area-between-two-points-containing-no-points](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/widest-vertical-area-between-two-points-containing-no-points.py)
+* [maximum-binary-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-binary-tree.py)
 * [difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/difference-between-element-sum-and-digit-sum-of-an-array.py)
 * [sum-multiples](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-multiples.py)
 * [merge-two-binary-trees](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-two-binary-trees.py)
