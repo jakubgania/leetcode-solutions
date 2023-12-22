@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 196
+## Python3 - 198
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -186,9 +186,11 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [largest-local-values-in-a-matrix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/largest-local-values-in-a-matrix.py)
 * [add-two-integers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/add-two-integers.py)
 * [sqrtx](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sqrtx.py)
+* [remove-palindromic-subsequences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-palindromic-subsequences.py)
 * [partition-array-according-to-given-pivot](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/partition-array-according-to-given-pivot.py)
 * [maximum-69-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-69-number.py)
 * [number-of-even-and-odd-bits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-even-and-odd-bits.py)
+* [unique-email-addresses](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/unique-email-addresses.py)
 * [number-of-strings-that-appear-as-substrings-in-word](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-strings-that-appear-as-substrings-in-word.py)
 * [delete-greatest-value-in-each-row](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/delete-greatest-value-in-each-row.py)
 * [counting-words-with-a-given-prefix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/counting-words-with-a-given-prefix.py)
@@ -238,13 +240,14 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [interval-cancellation](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/interval-cancellation.js)
 * [counter](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/counter.js)
 * [array-wrapper](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-wrapper.js)
-## MySQL - 19
+## MySQL - 20
 
 * [game-play-analysis-i](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/game-play-analysis-i.sql)
 * [daily-leads-and-partners](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/daily-leads-and-partners.sql)
 * [bank-account-summary-ii](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/bank-account-summary-ii.sql)
 * [not-boring-movies](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/not-boring-movies.sql)
 * [invalid-tweets](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/invalid-tweets.sql)
+* [customers-who-never-order](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/customers-who-never-order.sql)
 * [number-of-unique-subjects-taught-by-each-teacher](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/number-of-unique-subjects-taught-by-each-teacher.sql)
 * [recyclable-and-low-fat-products](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/recyclable-and-low-fat-products.sql)
 * [employees-with-missing-information](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/employees-with-missing-information.sql)
