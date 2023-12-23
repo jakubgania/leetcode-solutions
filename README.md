@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 198
+## Python3 - 201
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -39,6 +39,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/partitioning-into-minimum-number-of-deci-binary-numbers.py)
 * [merge-similar-items](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-similar-items.py)
 * [binary-tree-level-order-traversal](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/binary-tree-level-order-traversal.py)
+* [construct-binary-search-tree-from-preorder-traversal](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/construct-binary-search-tree-from-preorder-traversal.py)
 * [group-the-people-given-the-group-size-they-belong-to](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/group-the-people-given-the-group-size-they-belong-to.py)
 * [maximum-nesting-depth-of-the-parentheses](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-nesting-depth-of-the-parentheses.py)
 * [matrix-diagonal-sum](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/matrix-diagonal-sum.py)
@@ -100,6 +101,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [rearrange-words-in-a-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-words-in-a-sentence.py)
 * [goal-parser-interpretation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/goal-parser-interpretation.py)
 * [check-if-all-characters-have-equal-number-of-occurrences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-all-characters-have-equal-number-of-occurrences.py)
+* [all-possible-full-binary-trees](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/all-possible-full-binary-trees.py)
 * [remove-outermost-parentheses](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-outermost-parentheses.py)
 * [rearrange-array-elements-by-sign](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-array-elements-by-sign.py)
 * [determine-color-of-a-chessboard-square](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/determine-color-of-a-chessboard-square.py)
@@ -136,6 +138,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [number-of-laser-beams-in-a-bank](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-laser-beams-in-a-bank.py)
 * [search-in-a-binary-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/search-in-a-binary-search-tree.py)
 * [subarrays-distinct-element-sum-of-squares-i](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/subarrays-distinct-element-sum-of-squares-i.py)
+* [balance-a-binary-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/balance-a-binary-search-tree.py)
 * [create-target-array-in-the-given-order](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/create-target-array-in-the-given-order.py)
 * [count-symmetric-integers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-symmetric-integers.py)
 * [remove-trailing-zeros-from-a-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-trailing-zeros-from-a-string.py)
