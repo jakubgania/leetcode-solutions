@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 201
+## Python3 - 203
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -105,6 +105,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [remove-outermost-parentheses](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-outermost-parentheses.py)
 * [rearrange-array-elements-by-sign](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-array-elements-by-sign.py)
 * [determine-color-of-a-chessboard-square](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/determine-color-of-a-chessboard-square.py)
+* [find-the-peaks](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-peaks.py)
 * [n-repeated-element-in-size-2n-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/n-repeated-element-in-size-2n-array.py)
 * [self-dividing-numbers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/self-dividing-numbers.py)
 * [max-area-of-island](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/max-area-of-island.py)
@@ -114,6 +115,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [decode-the-message](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decode-the-message.py)
 * [lexicographically-smallest-palindrome](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/lexicographically-smallest-palindrome.py)
 * [remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-colored-pieces-if-both-neighbors-are-the-same-color.py)
+* [height-checker](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/height-checker.py)
 * [two-out-of-three](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/two-out-of-three.py)
 * [sort-the-matrix-diagonallydescription](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-matrix-diagonallydescription.py)
 * [build-array-from-permutation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/build-array-from-permutation.py)
