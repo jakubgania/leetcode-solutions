@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 203
+## Python3 - 205
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -189,8 +189,10 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [the-k-weakest-rows-in-a-matrix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/the-k-weakest-rows-in-a-matrix.py)
 * [count-asterisks](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-asterisks.py)
 * [largest-local-values-in-a-matrix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/largest-local-values-in-a-matrix.py)
+* [largest-3-same-digit-number-in-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/largest-3-same-digit-number-in-string.py)
 * [add-two-integers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/add-two-integers.py)
 * [sqrtx](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sqrtx.py)
+* [add-two-numbers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/add-two-numbers.py)
 * [remove-palindromic-subsequences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-palindromic-subsequences.py)
 * [partition-array-according-to-given-pivot](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/partition-array-according-to-given-pivot.py)
 * [maximum-69-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-69-number.py)
