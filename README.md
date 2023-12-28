@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 205
+## Python3 - 208
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -64,6 +64,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [sort-integers-by-the-number-of-1-bits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-integers-by-the-number-of-1-bits.py)
 * [merge-strings-alternately](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-strings-alternately.py)
 * [sorting-the-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sorting-the-sentence.py)
+* [all-elements-in-two-binary-search-trees](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/all-elements-in-two-binary-search-trees.py)
 * [number-of-students-doing-homework-at-a-given-time](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-students-doing-homework-at-a-given-time.py)
 * [root-equals-sum-of-children](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/root-equals-sum-of-children.py)
 * [split-a-string-in-balanced-strings](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/split-a-string-in-balanced-strings.py)
@@ -92,6 +93,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [count-the-digits-that-divide-a-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-the-digits-that-divide-a-number.py)
 * [rename-columns](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rename-columns.py)
 * [subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/subtract-the-product-and-sum-of-digits-of-an-integer.py)
+* [keyboard-row](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/keyboard-row.py)
 * [kids-with-the-greatest-number-of-candies](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/kids-with-the-greatest-number-of-candies.py)
 * [decrypt-string-from-alphabet-to-integer-mapping](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decrypt-string-from-alphabet-to-integer-mapping.py)
 * [maximum-product-difference-between-two-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-product-difference-between-two-pairs.py)
@@ -194,6 +196,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [sqrtx](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sqrtx.py)
 * [add-two-numbers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/add-two-numbers.py)
 * [remove-palindromic-subsequences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-palindromic-subsequences.py)
+* [count-common-words-with-one-occurrence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-common-words-with-one-occurrence.py)
 * [partition-array-according-to-given-pivot](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/partition-array-according-to-given-pivot.py)
 * [maximum-69-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-69-number.py)
 * [number-of-even-and-odd-bits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-even-and-odd-bits.py)
