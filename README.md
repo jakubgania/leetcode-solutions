@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 211
+## Python3 - 213
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -68,6 +68,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [number-of-students-doing-homework-at-a-given-time](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-students-doing-homework-at-a-given-time.py)
 * [root-equals-sum-of-children](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/root-equals-sum-of-children.py)
 * [split-a-string-in-balanced-strings](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/split-a-string-in-balanced-strings.py)
+* [replace-elements-with-greatest-element-on-right-side](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/replace-elements-with-greatest-element-on-right-side.py)
 * [array-partition](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/array-partition.py)
 * [reverse-prefix-of-word](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/reverse-prefix-of-word.py)
 * [truncate-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/truncate-sentence.py)
@@ -106,6 +107,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [all-possible-full-binary-trees](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/all-possible-full-binary-trees.py)
 * [remove-outermost-parentheses](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-outermost-parentheses.py)
 * [rearrange-array-elements-by-sign](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-array-elements-by-sign.py)
+* [fizz-buzz](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/fizz-buzz.py)
 * [determine-color-of-a-chessboard-square](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/determine-color-of-a-chessboard-square.py)
 * [find-the-peaks](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-peaks.py)
 * [n-repeated-element-in-size-2n-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/n-repeated-element-in-size-2n-array.py)
@@ -253,10 +255,11 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [interval-cancellation](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/interval-cancellation.js)
 * [counter](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/counter.js)
 * [array-wrapper](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-wrapper.js)
-## MySQL - 20
+## MySQL - 21
 
 * [game-play-analysis-i](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/game-play-analysis-i.sql)
 * [daily-leads-and-partners](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/daily-leads-and-partners.sql)
+* [find-customer-referee](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/find-customer-referee.sql)
 * [bank-account-summary-ii](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/bank-account-summary-ii.sql)
 * [not-boring-movies](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/not-boring-movies.sql)
 * [invalid-tweets](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/invalid-tweets.sql)
