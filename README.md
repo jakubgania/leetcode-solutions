@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 208
+## Python3 - 211
 
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
@@ -162,6 +162,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [sort-the-students-by-their-kth-score](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-students-by-their-kth-score.py)
 * [find-n-unique-integers-sum-up-to-zero](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-n-unique-integers-sum-up-to-zero.py)
 * [two-sum-ii-input-array-is-sorted](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/two-sum-ii-input-array-is-sorted.py)
+* [check-if-all-as-appears-before-all-bs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-all-as-appears-before-all-bs.py)
 * [find-words-containing-character](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-words-containing-character.py)
 * [to-lower-case](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/to-lower-case.py)
 * [cells-in-a-range-on-an-excel-sheet](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/cells-in-a-range-on-an-excel-sheet.py)
@@ -175,6 +176,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [shuffle-the-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-the-array.py)
 * [left-and-right-sum-differences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/left-and-right-sum-differences.py)
 * [add-binary](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/add-binary.py)
+* [largest-positive-integer-that-exists-with-its-negative](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/largest-positive-integer-that-exists-with-its-negative.py)
 * [design-parking-system](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/design-parking-system.py)
 * [count-good-triplets](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-good-triplets.py)
 * [deepest-leaves-sum](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/deepest-leaves-sum.py)
@@ -207,6 +209,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [faulty-keyboard](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/faulty-keyboard.py)
 * [smallest-index-with-equal-value](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/smallest-index-with-equal-value.py)
 * [number-of-good-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-good-pairs.py)
+* [minimum-absolute-difference](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-absolute-difference.py)
 * [minimum-bit-flips-to-convert-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-bit-flips-to-convert-number.py)
 * [count-items-matching-a-rule](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-items-matching-a-rule.py)
 * [convert-an-array-into-a-2d-array-with-conditions](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-an-array-into-a-2d-array-with-conditions.py)
