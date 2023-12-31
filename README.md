@@ -1,7 +1,8 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 213
+## Python3 - 222
 
+* [increasing-order-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/increasing-order-search-tree.py)
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
 * [sum-of-all-subset-xor-totals](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-subset-xor-totals.py)
 * [percentage-of-letter-in-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/percentage-of-letter-in-string.py)
@@ -14,6 +15,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [sum-of-squares-of-special-elements](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-squares-of-special-elements.py)
 * [maximum-sum-with-exactly-k-elements](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-sum-with-exactly-k-elements.py)
 * [maximum-count-of-positive-integer-and-negative-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-count-of-positive-integer-and-negative-integer.py)
+* [can-make-arithmetic-progression-from-sequence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/can-make-arithmetic-progression-from-sequence.py)
 * [n-ary-tree-preorder-traversal](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/n-ary-tree-preorder-traversal.py)
 * [flipping-an-image](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/flipping-an-image.py)
 * [number-of-arithmetic-triplets](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-arithmetic-triplets.py)
@@ -159,6 +161,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [convert-the-temperature](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-the-temperature.py)
 * [di-string-match](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/di-string-match.py)
 * [convert-binary-number-in-a-linked-list-to-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-binary-number-in-a-linked-list-to-integer.py)
+* [calculate-money-in-leetcode-bank](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/calculate-money-in-leetcode-bank.py)
 * [final-value-of-variable-after-performing-operations](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/final-value-of-variable-after-performing-operations.py)
 * [sort-array-by-increasing-frequency](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-array-by-increasing-frequency.py)
 * [sort-the-students-by-their-kth-score](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-students-by-their-kth-score.py)
@@ -166,6 +169,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [two-sum-ii-input-array-is-sorted](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/two-sum-ii-input-array-is-sorted.py)
 * [check-if-all-as-appears-before-all-bs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-all-as-appears-before-all-bs.py)
 * [find-words-containing-character](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-words-containing-character.py)
+* [divide-array-into-equal-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/divide-array-into-equal-pairs.py)
 * [to-lower-case](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/to-lower-case.py)
 * [cells-in-a-range-on-an-excel-sheet](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/cells-in-a-range-on-an-excel-sheet.py)
 * [widest-vertical-area-between-two-points-containing-no-points](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/widest-vertical-area-between-two-points-containing-no-points.py)
@@ -173,6 +177,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/difference-between-element-sum-and-digit-sum-of-an-array.py)
 * [sum-multiples](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-multiples.py)
 * [merge-two-binary-trees](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-two-binary-trees.py)
+* [find-common-elements-between-two-arrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-common-elements-between-two-arrays.py)
 * [sum-of-unique-elements](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-unique-elements.py)
 * [sort-array-by-parity](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-array-by-parity.py)
 * [shuffle-the-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-the-array.py)
@@ -191,6 +196,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [rings-and-rods](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rings-and-rods.py)
 * [count-pairs-whose-sum-is-less-than-target](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-pairs-whose-sum-is-less-than-target.py)
 * [generate-a-string-with-characters-that-have-odd-counts](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/generate-a-string-with-characters-that-have-odd-counts.py)
+* [special-positions-in-a-binary-matrix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/special-positions-in-a-binary-matrix.py)
 * [maximum-number-of-words-you-can-type](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-number-of-words-you-can-type.py)
 * [the-k-weakest-rows-in-a-matrix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/the-k-weakest-rows-in-a-matrix.py)
 * [count-asterisks](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-asterisks.py)
@@ -205,10 +211,13 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [maximum-69-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-69-number.py)
 * [number-of-even-and-odd-bits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-even-and-odd-bits.py)
 * [unique-email-addresses](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/unique-email-addresses.py)
+* [valid-anagram](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/valid-anagram.py)
 * [number-of-strings-that-appear-as-substrings-in-word](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-strings-that-appear-as-substrings-in-word.py)
+* [maximum-score-after-splitting-a-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-score-after-splitting-a-string.py)
 * [delete-greatest-value-in-each-row](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/delete-greatest-value-in-each-row.py)
 * [counting-words-with-a-given-prefix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/counting-words-with-a-given-prefix.py)
 * [faulty-keyboard](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/faulty-keyboard.py)
+* [n-ary-tree-postorder-traversal](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/n-ary-tree-postorder-traversal.py)
 * [smallest-index-with-equal-value](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/smallest-index-with-equal-value.py)
 * [number-of-good-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-good-pairs.py)
 * [minimum-absolute-difference](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-absolute-difference.py)
