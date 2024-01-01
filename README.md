@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 222
+## Python3 - 224
 
 * [increasing-order-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/increasing-order-search-tree.py)
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
@@ -103,6 +103,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [same-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/same-tree.py)
 * [evaluate-boolean-binary-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/evaluate-boolean-binary-tree.py)
 * [check-if-a-string-is-an-acronym-of-words](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-a-string-is-an-acronym-of-words.py)
+* [baseball-game](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/baseball-game.py)
 * [rearrange-words-in-a-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-words-in-a-sentence.py)
 * [goal-parser-interpretation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/goal-parser-interpretation.py)
 * [check-if-all-characters-have-equal-number-of-occurrences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-all-characters-have-equal-number-of-occurrences.py)
@@ -192,6 +193,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [smallest-even-multiple](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/smallest-even-multiple.py)
 * [first-letter-to-appear-twice](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/first-letter-to-appear-twice.py)
 * [count-number-of-pairs-with-absolute-difference-k](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-number-of-pairs-with-absolute-difference-k.py)
+* [robot-return-to-origin](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/robot-return-to-origin.py)
 * [calculate-delayed-arrival-time](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/calculate-delayed-arrival-time.py)
 * [rings-and-rods](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rings-and-rods.py)
 * [count-pairs-whose-sum-is-less-than-target](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-pairs-whose-sum-is-less-than-target.py)
@@ -264,7 +266,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [interval-cancellation](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/interval-cancellation.js)
 * [counter](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/counter.js)
 * [array-wrapper](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-wrapper.js)
-## MySQL - 21
+## MySQL - 22
 
 * [game-play-analysis-i](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/game-play-analysis-i.sql)
 * [daily-leads-and-partners](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/daily-leads-and-partners.sql)
@@ -284,6 +286,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [combine-two-tables](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/combine-two-tables.sql)
 * [reformat-department-table](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/reformat-department-table.sql)
 * [triangle-judgement](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/triangle-judgement.sql)
+* [article-views-i](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/article-views-i.sql)
 * [the-latest-login-in-2020](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/the-latest-login-in-2020.sql)
 * [duplicate-emails](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/duplicate-emails.sql)
 * [group-sold-products-by-the-date](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/group-sold-products-by-the-date.sql)
