@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 224
+## Python3 - 227
 
 * [increasing-order-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/increasing-order-search-tree.py)
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
@@ -108,6 +108,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [goal-parser-interpretation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/goal-parser-interpretation.py)
 * [check-if-all-characters-have-equal-number-of-occurrences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-all-characters-have-equal-number-of-occurrences.py)
 * [all-possible-full-binary-trees](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/all-possible-full-binary-trees.py)
+* [find-elements-in-a-contaminated-binary-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-elements-in-a-contaminated-binary-tree.py)
 * [remove-outermost-parentheses](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/remove-outermost-parentheses.py)
 * [rearrange-array-elements-by-sign](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rearrange-array-elements-by-sign.py)
 * [fizz-buzz](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/fizz-buzz.py)
@@ -193,6 +194,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [smallest-even-multiple](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/smallest-even-multiple.py)
 * [first-letter-to-appear-twice](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/first-letter-to-appear-twice.py)
 * [count-number-of-pairs-with-absolute-difference-k](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-number-of-pairs-with-absolute-difference-k.py)
+* [image-smoother](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/image-smoother.py)
 * [robot-return-to-origin](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/robot-return-to-origin.py)
 * [calculate-delayed-arrival-time](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/calculate-delayed-arrival-time.py)
 * [rings-and-rods](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rings-and-rods.py)
@@ -204,6 +206,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [count-asterisks](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-asterisks.py)
 * [largest-local-values-in-a-matrix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/largest-local-values-in-a-matrix.py)
 * [largest-3-same-digit-number-in-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/largest-3-same-digit-number-in-string.py)
+* [sum-of-root-to-leaf-binary-numbers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-root-to-leaf-binary-numbers.py)
 * [add-two-integers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/add-two-integers.py)
 * [sqrtx](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sqrtx.py)
 * [add-two-numbers](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/add-two-numbers.py)
@@ -226,8 +229,9 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [minimum-bit-flips-to-convert-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-bit-flips-to-convert-number.py)
 * [count-items-matching-a-rule](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-items-matching-a-rule.py)
 * [convert-an-array-into-a-2d-array-with-conditions](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-an-array-into-a-2d-array-with-conditions.py)
-## TypeScript - 11
+## TypeScript - 12
 
+* [calculator-with-method-chaining](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/calculator-with-method-chaining.ts)
 * [debounce](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/debounce.ts)
 * [timeout-cancellation](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/timeout-cancellation.ts)
 * [add-two-promises](https://github.com/jakubgania/leetcode-solutions/blob/main/TypeScript/add-two-promises.ts)
