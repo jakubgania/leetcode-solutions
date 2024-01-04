@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 227
+## Python3 - 229
 
 * [increasing-order-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/increasing-order-search-tree.py)
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
@@ -160,6 +160,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [find-the-difference-of-two-arrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-difference-of-two-arrays.py)
 * [check-if-two-string-arrays-are-equivalent](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-two-string-arrays-are-equivalent.py)
 * [find-valid-matrix-given-row-and-column-sums](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-valid-matrix-given-row-and-column-sums.py)
+* [minimum-number-game](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-number-game.py)
 * [convert-the-temperature](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-the-temperature.py)
 * [di-string-match](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/di-string-match.py)
 * [convert-binary-number-in-a-linked-list-to-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-binary-number-in-a-linked-list-to-integer.py)
@@ -179,6 +180,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/difference-between-element-sum-and-digit-sum-of-an-array.py)
 * [sum-multiples](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-multiples.py)
 * [merge-two-binary-trees](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-two-binary-trees.py)
+* [count-tested-devices-after-test-operations](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-tested-devices-after-test-operations.py)
 * [find-common-elements-between-two-arrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-common-elements-between-two-arrays.py)
 * [sum-of-unique-elements](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-unique-elements.py)
 * [sort-array-by-parity](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-array-by-parity.py)
