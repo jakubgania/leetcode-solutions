@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 229
+## Python3 - 231
 
 * [increasing-order-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/increasing-order-search-tree.py)
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
@@ -52,6 +52,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [find-the-maximum-achievable-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-maximum-achievable-number.py)
 * [merge-sorted-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-sorted-array.py)
 * [keep-multiplying-found-values-by-two](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/keep-multiplying-found-values-by-two.py)
+* [reverse-linked-list](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/reverse-linked-list.py)
 * [find-the-score-of-all-prefixes-of-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-score-of-all-prefixes-of-an-array.py)
 * [destination-city](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/destination-city.py)
 * [number-of-unequal-triplets-in-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-unequal-triplets-in-array.py)
@@ -135,6 +136,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [invert-binary-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/invert-binary-tree.py)
 * [determine-if-string-halves-are-alike](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/determine-if-string-halves-are-alike.py)
 * [counting-bits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/counting-bits.py)
+* [binary-tree-inorder-traversal](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/binary-tree-inorder-traversal.py)
 * [find-maximum-number-of-string-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-maximum-number-of-string-pairs.py)
 * [find-the-distinct-difference-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-distinct-difference-array.py)
 * [search-insert-position](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/search-insert-position.py)
