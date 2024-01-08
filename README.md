@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 231
+## Python3 - 233
 
 * [increasing-order-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/increasing-order-search-tree.py)
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
@@ -23,6 +23,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [difference-between-ones-and-zeros-in-row-and-column](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/difference-between-ones-and-zeros-in-row-and-column.py)
 * [fibonacci-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/fibonacci-number.py)
 * [minimum-number-of-moves-to-seat-everyone](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-number-of-moves-to-seat-everyone.py)
+* [maximum-depth-of-binary-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-depth-of-binary-tree.py)
 * [divisible-and-non-divisible-sums-difference](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/divisible-and-non-divisible-sums-difference.py)
 * [rotate-image](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/rotate-image.py)
 * [minimum-time-visiting-all-points](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-time-visiting-all-points.py)
@@ -66,6 +67,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [running-sum-of-1d-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/running-sum-of-1d-array.py)
 * [sort-integers-by-the-number-of-1-bits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-integers-by-the-number-of-1-bits.py)
 * [merge-strings-alternately](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-strings-alternately.py)
+* [hamming-distance](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/hamming-distance.py)
 * [sorting-the-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sorting-the-sentence.py)
 * [all-elements-in-two-binary-search-trees](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/all-elements-in-two-binary-search-trees.py)
 * [number-of-students-doing-homework-at-a-given-time](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-students-doing-homework-at-a-given-time.py)
