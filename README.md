@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 233
+## Python3 - 235
 
 * [increasing-order-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/increasing-order-search-tree.py)
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
@@ -33,6 +33,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [count-negative-numbers-in-a-sorted-matrix](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-negative-numbers-in-a-sorted-matrix.py)
 * [count-equal-and-divisible-pairs-in-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-equal-and-divisible-pairs-in-an-array.py)
 * [sum-of-all-odd-length-subarrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-of-all-odd-length-subarrays.py)
+* [delete-columns-to-make-sorted](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/delete-columns-to-make-sorted.py)
 * [find-the-prefix-common-array-of-two-arrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-prefix-common-array-of-two-arrays.py)
 * [find-numbers-with-even-number-of-digits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-numbers-with-even-number-of-digits.py)
 * [xor-operation-in-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/xor-operation-in-an-array.py)
@@ -66,6 +67,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [final-prices-with-a-special-discount-in-a-shop](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/final-prices-with-a-special-discount-in-a-shop.py)
 * [running-sum-of-1d-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/running-sum-of-1d-array.py)
 * [sort-integers-by-the-number-of-1-bits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-integers-by-the-number-of-1-bits.py)
+* [count-operations-to-obtain-zero](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-operations-to-obtain-zero.py)
 * [merge-strings-alternately](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-strings-alternately.py)
 * [hamming-distance](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/hamming-distance.py)
 * [sorting-the-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sorting-the-sentence.py)
