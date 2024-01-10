@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 235
+## Python3 - 237
 
 * [increasing-order-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/increasing-order-search-tree.py)
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
@@ -80,6 +80,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [reverse-prefix-of-word](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/reverse-prefix-of-word.py)
 * [truncate-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/truncate-sentence.py)
 * [binary-search-tree-to-greater-sum-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/binary-search-tree-to-greater-sum-tree.py)
+* [distribute-candies-among-children-i](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/distribute-candies-among-children-i.py)
 * [max-increase-to-keep-city-skyline](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/max-increase-to-keep-city-skyline.py)
 * [split-strings-by-separator](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/split-strings-by-separator.py)
 * [find-the-highest-altitude](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-highest-altitude.py)
@@ -103,6 +104,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/subtract-the-product-and-sum-of-digits-of-an-integer.py)
 * [keyboard-row](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/keyboard-row.py)
 * [kids-with-the-greatest-number-of-candies](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/kids-with-the-greatest-number-of-candies.py)
+* [maximum-strong-pair-xor-i](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-strong-pair-xor-i.py)
 * [decrypt-string-from-alphabet-to-integer-mapping](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/decrypt-string-from-alphabet-to-integer-mapping.py)
 * [maximum-product-difference-between-two-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-product-difference-between-two-pairs.py)
 * [same-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/same-tree.py)
