@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 237
+## Python3 - 238
 
 * [increasing-order-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/increasing-order-search-tree.py)
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
@@ -140,6 +140,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [plus-one](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/plus-one.py)
 * [count-the-number-of-vowel-strings-in-range](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-the-number-of-vowel-strings-in-range.py)
 * [invert-binary-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/invert-binary-tree.py)
+* [convert-bst-to-greater-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/convert-bst-to-greater-tree.py)
 * [determine-if-string-halves-are-alike](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/determine-if-string-halves-are-alike.py)
 * [counting-bits](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/counting-bits.py)
 * [binary-tree-inorder-traversal](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/binary-tree-inorder-traversal.py)
