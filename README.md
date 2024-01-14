@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 238
+## Python3 - 239
 
 * [increasing-order-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/increasing-order-search-tree.py)
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
@@ -62,6 +62,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [design-hashmap](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/design-hashmap.py)
 * [row-with-maximum-ones](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/row-with-maximum-ones.py)
 * [find-the-original-array-of-prefix-xor](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-the-original-array-of-prefix-xor.py)
+* [recover-a-tree-from-preorder-traversaldescription](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/recover-a-tree-from-preorder-traversaldescription.py)
 * [minimum-operations-to-make-the-array-increasing](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/minimum-operations-to-make-the-array-increasing.py)
 * [separate-the-digits-in-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/separate-the-digits-in-an-array.py)
 * [final-prices-with-a-special-discount-in-a-shop](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/final-prices-with-a-special-discount-in-a-shop.py)
