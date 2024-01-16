@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 239
+## Python3 - 240
 
 * [increasing-order-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/increasing-order-search-tree.py)
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
@@ -72,6 +72,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [merge-strings-alternately](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-strings-alternately.py)
 * [hamming-distance](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/hamming-distance.py)
 * [sorting-the-sentence](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sorting-the-sentence.py)
+* [redistribute-characters-to-make-all-strings-equal](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/redistribute-characters-to-make-all-strings-equal.py)
 * [all-elements-in-two-binary-search-trees](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/all-elements-in-two-binary-search-trees.py)
 * [number-of-students-doing-homework-at-a-given-time](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-students-doing-homework-at-a-given-time.py)
 * [root-equals-sum-of-children](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/root-equals-sum-of-children.py)
