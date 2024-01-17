@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 240
+## Python3 - 241
 
 * [increasing-order-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/increasing-order-search-tree.py)
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
@@ -190,6 +190,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [maximum-binary-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-binary-tree.py)
 * [difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/difference-between-element-sum-and-digit-sum-of-an-array.py)
 * [sum-multiples](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sum-multiples.py)
+* [make-array-zero-by-subtracting-equal-amounts](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/make-array-zero-by-subtracting-equal-amounts.py)
 * [merge-two-binary-trees](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-two-binary-trees.py)
 * [count-tested-devices-after-test-operations](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-tested-devices-after-test-operations.py)
 * [find-common-elements-between-two-arrays](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-common-elements-between-two-arrays.py)
