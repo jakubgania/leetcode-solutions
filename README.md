@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 241
+## Python3 - 243
 
 * [increasing-order-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/increasing-order-search-tree.py)
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
@@ -136,6 +136,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [two-out-of-three](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/two-out-of-three.py)
 * [sort-the-matrix-diagonallydescription](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-matrix-diagonallydescription.py)
 * [build-array-from-permutation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/build-array-from-permutation.py)
+* [intersection-of-two-arraysdescription](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/intersection-of-two-arraysdescription.py)
 * [a-number-after-a-double-reversal](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/a-number-after-a-double-reversal.py)
 * [number-of-rectangles-that-can-form-the-largest-square](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-rectangles-that-can-form-the-largest-square.py)
 * [shuffle-string](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/shuffle-string.py)
@@ -181,6 +182,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [sort-the-students-by-their-kth-score](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-students-by-their-kth-score.py)
 * [find-n-unique-integers-sum-up-to-zero](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-n-unique-integers-sum-up-to-zero.py)
 * [two-sum-ii-input-array-is-sorted](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/two-sum-ii-input-array-is-sorted.py)
+* [single-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/single-number.py)
 * [check-if-all-as-appears-before-all-bs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-all-as-appears-before-all-bs.py)
 * [find-words-containing-character](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/find-words-containing-character.py)
 * [divide-array-into-equal-pairs](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/divide-array-into-equal-pairs.py)
