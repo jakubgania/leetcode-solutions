@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 243
+## Python3 - 244
 
 * [increasing-order-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/increasing-order-search-tree.py)
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
@@ -94,6 +94,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [middle-of-the-linked-list](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/middle-of-the-linked-list.py)
 * [count-nodes-equal-to-average-of-subtree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-nodes-equal-to-average-of-subtree.py)
 * [how-many-numbers-are-smaller-than-the-current-number](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/how-many-numbers-are-smaller-than-the-current-number.py)
+* [merge-two-2d-arrays-by-summing-values](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/merge-two-2d-arrays-by-summing-values.py)
 * [count-of-matches-in-tournament](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/count-of-matches-in-tournament.py)
 * [maximum-number-of-words-found-in-sentences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/maximum-number-of-words-found-in-sentences.py)
 * [check-if-word-equals-summation-of-two-words](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/check-if-word-equals-summation-of-two-words.py)
