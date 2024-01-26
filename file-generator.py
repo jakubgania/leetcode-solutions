@@ -66,6 +66,10 @@ while True:
             print("Invalid technology name")
 
     path = urlparse(input_1).path
+    
+    if "/description/" in path:
+        path = path.replace("/description/", "")
+    
     path = path.replace("/", "")
     path = path[8:]
 
