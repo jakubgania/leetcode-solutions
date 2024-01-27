@@ -1,6 +1,6 @@
 # leetcode-solutions
 My own solutions to tasks on LeetCode platform. I'm saving them here for archiving. Not every solution is the most optimal or appropriate because this is a learning process for me in general - keep taht in mind.
-## Python3 - 245
+## Python3 - 246
 
 * [increasing-order-search-tree](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/increasing-order-search-tree.py)
 * [sort-the-people](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-people.py)
@@ -138,6 +138,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [two-out-of-three](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/two-out-of-three.py)
 * [sort-the-matrix-diagonallydescription](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/sort-the-matrix-diagonallydescription.py)
 * [build-array-from-permutation](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/build-array-from-permutation.py)
+* [unique-number-of-occurrences](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/unique-number-of-occurrences.py)
 * [intersection-of-two-arraysdescription](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/intersection-of-two-arraysdescription.py)
 * [a-number-after-a-double-reversal](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/a-number-after-a-double-reversal.py)
 * [number-of-rectangles-that-can-form-the-largest-square](https://github.com/jakubgania/leetcode-solutions/blob/main/Python3/number-of-rectangles-that-can-form-the-largest-square.py)
