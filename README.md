@@ -289,7 +289,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [interval-cancellation](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/interval-cancellation.js)
 * [counter](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/counter.js)
 * [array-wrapper](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-wrapper.js)
-## MySQL - 22
+## MySQL - 23
 
 * [game-play-analysis-i](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/game-play-analysis-i.sql)
 * [daily-leads-and-partners](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/daily-leads-and-partners.sql)
@@ -313,3 +313,4 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [the-latest-login-in-2020](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/the-latest-login-in-2020.sql)
 * [duplicate-emails](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/duplicate-emails.sql)
 * [group-sold-products-by-the-date](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/group-sold-products-by-the-date.sql)
+* [employees-earning-more-than-their-managers](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/employees-earning-more-than-their-managers.sql)
