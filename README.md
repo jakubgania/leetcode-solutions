@@ -289,7 +289,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [interval-cancellation](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/interval-cancellation.js)
 * [counter](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/counter.js)
 * [array-wrapper](https://github.com/jakubgania/leetcode-solutions/blob/main/JavaScript/array-wrapper.js)
-## MySQL - 23
+## MySQL - 24
 
 * [game-play-analysis-i](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/game-play-analysis-i.sql)
 * [daily-leads-and-partners](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/daily-leads-and-partners.sql)
@@ -308,6 +308,7 @@ My own solutions to tasks on LeetCode platform. I'm saving them here for archivi
 * [capital-gainloss](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/capital-gainloss.sql)
 * [combine-two-tables](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/combine-two-tables.sql)
 * [reformat-department-table](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/reformat-department-table.sql)
+* [actors-and-directors-who-cooperated-at-least-three-times](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/actors-and-directors-who-cooperated-at-least-three-times.sql)
 * [triangle-judgement](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/triangle-judgement.sql)
 * [article-views-i](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/article-views-i.sql)
 * [the-latest-login-in-2020](https://github.com/jakubgania/leetcode-solutions/blob/main/MySQL/the-latest-login-in-2020.sql)
